@@ -1,5 +1,7 @@
 # NFHS-5: National Family Health Survey (2019-20) 🇮🇳
 District wise data for NFHS-5 and NFHS-4. Data sourced from http://rchiips.org/nfhs/. All the PDFs have been converted and reformatted into CSVs using python.
+ Some of the data for phase-I has been picked from this [repo](https://github.com/pratapvardhan/NFHS-5) by [Pratap Vardhan](https://github.com/pratapvardhan)
+
 
 ### Data:
 - [State_wise data](https://github.com/SaiSiddhardhaKalla/NFHS/tree/main/_states) for 707 Districts from 29 States and 8 Union Territories.
