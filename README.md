@@ -7,7 +7,8 @@ District wise data for NFHS-5 and NFHS-4. Data sourced from http://rchiips.org/n
 - [PDF files](https://github.com/SaiSiddhardhaKalla/NFHS/tree/main/pdfs) as published by IIPS.
 
 ### Issues:
-- Some inconsistencies with spellings in Indicator column. 
+- Some inconsistencies with spellings in Indicator column in _states.
+- Uttar Bastar Kanker in Chhattisgarh only has 103 questions.
 - All the States and Districts have been matched with 2011 Census Codes. However, 65 new districts have been since formed that lack district codes:
 
 
