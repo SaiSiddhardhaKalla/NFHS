@@ -11,6 +11,7 @@ Some of the data for phase-I has been picked from this [repo](https://github.com
 
 ### Issues:
 - Some inconsistencies with spellings in Indicator column in [State_wise data](https://github.com/SaiSiddhardhaKalla/NFHS/tree/main/_states).
+- Need to Update Telangana NFHS 4 details
 - Five Districts in Chhattisgarh have wrong data: 
   - Rajnandgaon
   - Sukma
@@ -89,6 +90,3 @@ Some of the data for phase-I has been picked from this [repo](https://github.com
 |Uttar Pradesh|	9|	Hapur|
 |Uttar Pradesh|	9|	Sambhal|
 |Uttar Pradesh|	9	|Shamli|
-
-
-
