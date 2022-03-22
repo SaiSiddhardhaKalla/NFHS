@@ -9,7 +9,7 @@ Some of the data for phase-I has been picked from this [repo](https://github.com
 - [Cummulated data](India.csv) 
 - [PDF files](https://github.com/SaiSiddhardhaKalla/NFHS/tree/main/pdfs) as published by IIPS.
 
-### Issues:
+### Issues - Known and Resolved:
 - Some inconsistencies with spellings in Indicator column in [State_wise data](https://github.com/SaiSiddhardhaKalla/NFHS/tree/main/_states).
 - <s>Need to Update Telangana NFHS 4 details</s>
 - <s>Five Districts in Chhattisgarh have wrong data:</s> 
