@@ -11,6 +11,7 @@ Some of the data for phase-I has been picked from this [repo](https://github.com
 
 ### Issues - Known and Resolved:
 - Some inconsistencies with spellings in Indicator column in [State_wise data](https://github.com/SaiSiddhardhaKalla/NFHS/tree/main/_states).
+- Error in variable **`Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%)`**. Value has been set to 0 for time being. 
 - <s>Need to Update Telangana NFHS 4 details</s>
 - <s>Five Districts in Chhattisgarh have wrong data:</s> 
   - <s>Rajnandgaon</s>
