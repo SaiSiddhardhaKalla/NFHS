@@ -1,0 +1,155 @@
+html {
+  font-size: 62.5%;}
+
+body {
+    font-size: 1.5em;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: 'HelveticaNeue', sans-serif,'Open Sans', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell;
+    color: rgb(50, 50, 50);  }
+.wrapper{
+      display: grid;
+      height: 100vh;
+      grid-template-columns: 0.25fr 0.25fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.25fr 0.25fr;
+      grid-template-rows: 70px 0.5fr 6fr 0.65fr 2fr 2fr;
+      gap: 0.5rem;
+      /* background: bl; */
+      grid-template-areas: 
+      "header header header header header header header header header header"
+      "Cat Cat Cat indi indi indi indi States States States"       
+      " . n5 n5 n5 n5 n5 n5 n5 n5 ."
+      ". out out out out out out out out ."
+      ". top5 top5 top5 top5 chan chan chan chan ."
+      ". bot5 bot5 bot5 bot5 negchan negchan negchan negchan .";
+      }
+.header{
+          grid-area: header;
+          font-family: Helvetica Neue,Arial,sommet,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,sans-serif;
+          font-weight: 200;
+          line-height: 1.05;
+          color: #0092c8;
+          text-transform: uppercase;
+          }
+.Cat{
+          grid-area: Cat;
+          border: none;
+          background: #052F5F;
+          outline: none;
+          border-radius: 22px;
+          padding: 9px 22px 9px;
+          font-family: Helvetica Neue,Arial,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,sans-serif;
+          font-weight: 400;
+          font-size: 1.125rem;
+          box-shadow: 0 0 12px 8px rgb(0 0 0 / 5%);
+          position: relative;
+          display: flex;
+          color: white !important;
+          flex-direction: column;
+          align-items: left;
+          -webkit-transition: border-radius .2s;
+          transition: border-radius .2s;
+          }     
+.indi{
+          grid-area: indi;
+          grid-area: indi;
+          /* width: 100%; */
+          border: none;
+          background:#F9E6DD;
+          outline: none;
+          border-radius: 22px;
+          padding: 9px 22px 9px;
+          font-family: Helvetica Neue,Arial,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,sans-serif;
+          font-weight: 400;
+          font-size: 1.125rem;
+          box-shadow: 0 0 12px 8px rgb(0 0 0 / 5%);
+          position: relative;
+          display: flex;
+          flex-direction: column;
+          align-items: left;
+          -webkit-transition: border-radius .2s;
+          transition: border-radius .2s;
+          }  
+.States{
+            grid-area: States;
+            border: none;
+            /* background: #48639C; */
+            background: #052F5F;
+            outline: none;
+            border-radius: 22px;
+            padding: 9px 22px 9px;
+            font-family: Helvetica Neue,Arial,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,sans-serif;
+            font-weight: 400;
+            font-size: 1.125rem;
+            box-shadow: 0 0 12px 8px rgb(0 0 0 / 5%);
+            position: relative;
+            display: flex;
+            color: white !important;
+            flex-direction: column;
+            align-items: left;
+            -webkit-transition: border-radius .2s;
+            transition: border-radius .2s;
+        }
+/* #Indicator  .Select -control {
+          background-color: skyblue;
+          border-radius: 20px;
+        } */
+#Category .Select div {
+          background-color: white;
+          border:none;
+          border-radius: 20px;
+        }
+#Indicator .Select div {
+          background-color: white;
+          border:none;
+          border-radius: 20px;
+        }
+#State .Select div {
+          background-color: white;
+          color: black;
+          border-radius: 20px;
+        }
+.bground {
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          height: 1222px;
+          z-index: -1; /* for header*/
+          background-repeat: no-repeat;
+          background-position: 0 0;
+          background-attachment: fixed;
+          /* background-attachment: scroll; */
+          /* animation: slideshow 5s linear infinite; */
+        }
+        /* @keyframes slideshow */
+        /* { */
+          /* 0% {top:-100;} */
+          /* 100% {top:-100%;}  */
+        /* } */
+
+.n5{
+          grid-area: n5;
+          /* border-radius: 22px; */
+          padding: 9px 22px 9px;
+          font-family: Helvetica Neue,Arial,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,sans-serif;
+          font-weight: 400;
+          }
+.output{
+          grid-area: out;
+          border: 0.2em;
+          border-radius: 20px;
+          }
+.top5{
+          grid-area: top5;
+          /* background-color: rgba(0,0,0,0); */
+          font-family: Helvetica Neue,Arial,sommet,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,sans-serif;
+          }
+.bot5{
+         grid-area: bot5;
+        }
+.chan{
+          grid-area: chan;
+         }
+.negchan{
+          grid-area: negchan;
+         }
