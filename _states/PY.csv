@@ -1,417 +1,417 @@
-﻿State,ST_CEN_CD,District,DT_CEN_CD,Category,Indicator,NFHS 5,NFHS 4
-Puducherry,34,Karaikal ,4,Population and Household Profile,Female population age 6 years and above who ever attended school (%),86.3,84
-Puducherry,34,Karaikal ,4,Population and Household Profile,Population below age 15 years (%),21.9,23.9
-Puducherry,34,Karaikal ,4,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",1132,1108
-Puducherry,34,Karaikal ,4,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",884,890
-Puducherry,34,Karaikal ,4,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),99.1,98.5
-Puducherry,34,Karaikal ,4,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),95.9,0
-Puducherry,34,Karaikal ,4,Population and Household Profile,Population living in households with electricity (%),99.6,99.7
-Puducherry,34,Karaikal ,4,Population and Household Profile,Population living in households with an improved drinking-water source1 (%),99.9,100
-Puducherry,34,Karaikal ,4,Population and Household Profile,Population living in households that use an improved sanitation facility2 (%),84.3,69.4
-Puducherry,34,Karaikal ,4,Population and Household Profile,Households using clean fuel for cooking3 (%),81.2,73.1
-Puducherry,34,Karaikal ,4,Population and Household Profile,Households using iodized salt (%),93,87.6
-Puducherry,34,Karaikal ,4,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),26.9,36
-Puducherry,34,Karaikal ,4,Population and Household Profile,Children age 5 years who attended pre-primary school during the school year 2019-20 (%),33.1,0
-Puducherry,34,Karaikal ,4,Characteristics of Women,Women who are literate4 (%),88.8,0
-Puducherry,34,Karaikal ,4,Characteristics of Women,Women with 10 or more years of schooling (%),59,61.1
-Puducherry,34,Karaikal ,4,Marriage and Fertility,Women age 20-24 years married before age 18 years (%),7.2,11.6
-Puducherry,34,Karaikal ,4,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),0,0
-Puducherry,34,Karaikal ,4,Marriage and Fertility,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.6,4.1
-Puducherry,34,Karaikal ,4,Marriage and Fertility,Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),100,95.6
-Puducherry,34,Karaikal ,4,Current Use of Family Planning Methods,Any method6 (%),59.7,48.7
-Puducherry,34,Karaikal ,4,Current Use of Family Planning Methods,Any modern method6 (%),57.9,47
-Puducherry,34,Karaikal ,4,Current Use of Family Planning Methods,Female sterilization (%),51.3,41.1
-Puducherry,34,Karaikal ,4,Current Use of Family Planning Methods,Male sterilization (%),0,0
-Puducherry,34,Karaikal ,4,Current Use of Family Planning Methods,IUD/PPIUD (%),1.8,1.7
-Puducherry,34,Karaikal ,4,Current Use of Family Planning Methods,Pill (%),0.4,0.5
-Puducherry,34,Karaikal ,4,Current Use of Family Planning Methods,Condom (%),3.9,3.5
-Puducherry,34,Karaikal ,4,Current Use of Family Planning Methods,Injectables (%),0.1,0
-Puducherry,34,Karaikal ,4,Unmet Need for Family Planning,Total unmet need7 (%),10.2,12.2
-Puducherry,34,Karaikal ,4,Unmet Need for Family Planning,Unmet need for spacing7 (%),3.7,6.8
-Puducherry,34,Karaikal ,4,Quality of Family Planning Services,Health worker ever talked to female non-users about family planning (%),28.8,38.2
-Puducherry,34,Karaikal ,4,Quality of Family Planning Services,Current users ever told about side effects of current method8 (%),73.8,71.3
-Puducherry,34,Karaikal ,4,Maternal and Child Health,Mothers who had an antenatal check-up in the first trimester (%),79.2,74.4
-Puducherry,34,Karaikal ,4,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),88.3,87.2
-Puducherry,34,Karaikal ,4,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus9 (%),90.7,74.7
-Puducherry,34,Karaikal ,4,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),81.4,64.4
-Puducherry,34,Karaikal ,4,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),65.7,37
-Puducherry,34,Karaikal ,4,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.3,96.3
-Puducherry,34,Karaikal ,4,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95,73.2
-Puducherry,34,Karaikal ,4,Maternal and Child Health,Average out-of-pocket expenditure per delivery in a public health facility (Rs,2788,2509
-Puducherry,34,Karaikal ,4,Maternal and Child Health,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0,0
-Puducherry,34,Karaikal ,4,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),98.3,0
-Puducherry,34,Karaikal ,4,Delivery Care,Institutional births (%),99.6,99.6
-Puducherry,34,Karaikal ,4,Delivery Care,Institutional births in public facility (%),67.2,72.8
-Puducherry,34,Karaikal ,4,Delivery Care,Home births that were conducted by skilled health personnel10 (%),0,0.4
-Puducherry,34,Karaikal ,4,Delivery Care,Births attended by skilled health personnel10 (%),99.6,100
-Puducherry,34,Karaikal ,4,Delivery Care,Births delivered by caesarean section (%),45.9,50
-Puducherry,34,Karaikal ,4,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),45.9,75.8
-Puducherry,34,Karaikal ,4,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),46.2,40.8
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),88.9,89.6
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),96.6,89.3
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received BCG (%),100,100
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of polio vaccine13 (%),92.1,91.5
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),96.8,92
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),95.9,93.7
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),33.2,0
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),11.8,0
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),96.5,85.4
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),76.9,78.9
-Puducherry,34,Karaikal ,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.4,75.8
-Puducherry,34,Karaikal ,4,Treatment of Childhood Diseases,Children age 12-23 months who received most of their vaccinations in a private health facility (%),4,24.2
-Puducherry,34,Karaikal ,4,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.6,8.1
-Puducherry,34,Karaikal ,4,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0,0
-Puducherry,34,Karaikal ,4,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0,0
-Puducherry,34,Karaikal ,4,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
-Puducherry,34,Karaikal ,4,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.1,4.1
-Puducherry,34,Karaikal ,4,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,77.9
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth15 (%),60.6,59.6
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed16 (%),0,0
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),0,0
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,"Breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",18.7,27.6
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,"Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",0,0
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,"Total children age 6-23 months receiving an adequate diet16, 17 (%)",17.9,34.6
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (height-for-age)18 (%),25.5,19
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weight-for-height)18 (%),15.3,23.3
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weight-for-height)19 (%),3.8,11.9
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weight-for-age)18 (%),19.7,24.8
-Puducherry,34,Karaikal ,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weight-for-height)20 (%),4.3,3
-Puducherry,34,Karaikal ,4,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18,12.7,15.3
-Puducherry,34,Karaikal ,4,Nutritional Status of Women,Women who are overweight or obese (BMI ‚Äö√¢‚Ä¢25,39.3,38.6
-Puducherry,34,Karaikal ,4,Nutritional Status of Women,Women who have high risk waist-to-hip ratio (‚Äö√¢‚Ä¢0,61.8,0
-Puducherry,34,Karaikal ,4,Anaemia among Children and Women,Children age 6-59 months who are anaemic (<11,65.5,48.4
-Puducherry,34,Karaikal ,4,Anaemia among Children and Women,Non-pregnant women age 15-49 years who are anaemic (<12,53.7,57.5
-Puducherry,34,Karaikal ,4,Anaemia among Children and Women,Pregnant women age 15-49 years who are anaemic (<11,66.3,44.1
-Puducherry,34,Karaikal ,4,Anaemia among Children and Women,All women age 15-49 years who are anaemic22 (%),54.4,57
-Puducherry,34,Karaikal ,4,Anaemia among Children and Women,All women age 15-19 years who are anaemic22 (%),56.1,59.5
-Puducherry,34,Karaikal ,4,Blood Sugar Level among women,Blood sugar level - high (141-160 mg/dl)23 (%),7.3,0
-Puducherry,34,Karaikal ,4,Blood Sugar Level among women,Blood sugar level - very high (>160 mg/dl)23 (%),13,0
-Puducherry,34,Karaikal ,4,Blood Sugar Level among women,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),22.4,0
-Puducherry,34,Karaikal ,4,Blood Sugar Level among men,Blood sugar level - high (141-160 mg/dl)23 (%),6.5,0
-Puducherry,34,Karaikal ,4,Blood Sugar Level among men,Blood sugar level - very high (>160 mg/dl)23 (%),13.5,0
-Puducherry,34,Karaikal ,4,Blood Sugar Level among men,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),22.8,0
-Puducherry,34,Karaikal ,4,Hypertension among women,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.1,0
-Puducherry,34,Karaikal ,4,Hypertension among women,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),4.1,0
-Puducherry,34,Karaikal ,4,Hypertension among women,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),20.5,0
-Puducherry,34,Karaikal ,4,Hypertension among men,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.5,0
-Puducherry,34,Karaikal ,4,Hypertension among men,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),6.6,0
-Puducherry,34,Karaikal ,4,Hypertension among men,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),24.4,0
-Puducherry,34,Karaikal ,4,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),3,0
-Puducherry,34,Karaikal ,4,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),2.5,0
-Puducherry,34,Karaikal ,4,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),0.1,0
-Puducherry,34,Karaikal ,4,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),5.1,0
-Puducherry,34,Karaikal ,4,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),19.5,0
-Puducherry,34,Karaikal ,4,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),0,0
-Puducherry,34,Karaikal ,4,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),32.4,0
-Puducherry,34,Mahe ,3,Population and Household Profile,Female population age 6 years and above who ever attended school (%),99.2,95.9
-Puducherry,34,Mahe ,3,Population and Household Profile,Population below age 15 years (%),16.8,22.2
-Puducherry,34,Mahe ,3,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",1164,1201
-Puducherry,34,Mahe ,3,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",1202,1153
-Puducherry,34,Mahe ,3,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),99.4,100
-Puducherry,34,Mahe ,3,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),96.8,0
-Puducherry,34,Mahe ,3,Population and Household Profile,Population living in households with electricity (%),99.7,99.8
-Puducherry,34,Mahe ,3,Population and Household Profile,Population living in households with an improved drinking-water source1 (%),98,90.5
-Puducherry,34,Mahe ,3,Population and Household Profile,Population living in households that use an improved sanitation facility2 (%),99.8,98.2
-Puducherry,34,Mahe ,3,Population and Household Profile,Households using clean fuel for cooking3 (%),90.9,86.9
-Puducherry,34,Mahe ,3,Population and Household Profile,Households using iodized salt (%),99.8,98.8
-Puducherry,34,Mahe ,3,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),23.6,43.8
-Puducherry,34,Mahe ,3,Population and Household Profile,Children age 5 years who attended pre-primary school during the school year 2019-20 (%),14.4,0
-Puducherry,34,Mahe ,3,Characteristics of Women,Women who are literate4 (%),99.6,0
-Puducherry,34,Mahe ,3,Characteristics of Women,Women with 10 or more years of schooling (%),88.2,86.3
-Puducherry,34,Mahe ,3,Marriage and Fertility,Women age 20-24 years married before age 18 years (%),2.8,4.2
-Puducherry,34,Mahe ,3,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),1.8,0
-Puducherry,34,Mahe ,3,Marriage and Fertility,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.7,0
-Puducherry,34,Mahe ,3,Marriage and Fertility,Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),98.5,96.3
-Puducherry,34,Mahe ,3,Current Use of Family Planning Methods,Any method6 (%),73.6,40.9
-Puducherry,34,Mahe ,3,Current Use of Family Planning Methods,Any modern method6 (%),65.9,38.6
-Puducherry,34,Mahe ,3,Current Use of Family Planning Methods,Female sterilization (%),54.4,36.9
-Puducherry,34,Mahe ,3,Current Use of Family Planning Methods,Male sterilization (%),0,0
-Puducherry,34,Mahe ,3,Current Use of Family Planning Methods,IUD/PPIUD (%),1.6,0.4
-Puducherry,34,Mahe ,3,Current Use of Family Planning Methods,Pill (%),0.1,0.1
-Puducherry,34,Mahe ,3,Current Use of Family Planning Methods,Condom (%),9,1.2
-Puducherry,34,Mahe ,3,Current Use of Family Planning Methods,Injectables (%),0,0
-Puducherry,34,Mahe ,3,Unmet Need for Family Planning,Total unmet need7 (%),6.8,16.4
-Puducherry,34,Mahe ,3,Unmet Need for Family Planning,Unmet need for spacing7 (%),4.9,10.5
-Puducherry,34,Mahe ,3,Quality of Family Planning Services,Health worker ever talked to female non-users about family planning (%),12.4,27.6
-Puducherry,34,Mahe ,3,Quality of Family Planning Services,Current users ever told about side effects of current method8 (%),74.1,71.3
-Puducherry,34,Mahe ,3,Maternal and Child Health,Mothers who had an antenatal check-up in the first trimester (%),93.7,58.1
-Puducherry,34,Mahe ,3,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),85,82.3
-Puducherry,34,Mahe ,3,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus9 (%),96.4,76
-Puducherry,34,Mahe ,3,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),77.9,89.5
-Puducherry,34,Mahe ,3,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),67.6,52.1
-Puducherry,34,Mahe ,3,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),94.4,98.3
-Puducherry,34,Mahe ,3,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),96.8,83.2
-Puducherry,34,Mahe ,3,Maternal and Child Health,Average out-of-pocket expenditure per delivery in a public health facility (Rs,8288,2721
-Puducherry,34,Mahe ,3,Maternal and Child Health,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0,0
-Puducherry,34,Mahe ,3,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.6,0
-Puducherry,34,Mahe ,3,Delivery Care,Institutional births (%),100,100
-Puducherry,34,Mahe ,3,Delivery Care,Institutional births in public facility (%),45.6,31.5
-Puducherry,34,Mahe ,3,Delivery Care,Home births that were conducted by skilled health personnel10 (%),0,0
-Puducherry,34,Mahe ,3,Delivery Care,Births attended by skilled health personnel10 (%),100,100
-Puducherry,34,Mahe ,3,Delivery Care,Births delivered by caesarean section (%),27.5,42.9
-Puducherry,34,Mahe ,3,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),39.4,44.6
-Puducherry,34,Mahe ,3,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),13.4,39.2
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),95.3,90.6
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),95.3,91.6
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received BCG (%),100,98.3
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of polio vaccine13 (%),100,95.5
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),95.3,98.3
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100,93.4
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),38.3,0
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),17.9,0
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),100,95.6
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),84.4,80.4
-Puducherry,34,Mahe ,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who received most of their vaccinations in a public health facility (%),91.5,60.7
-Puducherry,34,Mahe ,3,Treatment of Childhood Diseases,Children age 12-23 months who received most of their vaccinations in a private health facility (%),8.5,39.3
-Puducherry,34,Mahe ,3,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),0,3.5
-Puducherry,34,Mahe ,3,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0,0
-Puducherry,34,Mahe ,3,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0,0
-Puducherry,34,Mahe ,3,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
-Puducherry,34,Mahe ,3,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0,4.2
-Puducherry,34,Mahe ,3,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,91.8
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth15 (%),77.8,61
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed16 (%),0,0
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),0,0
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,"Breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",39.2,20.2
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,"Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",0,0
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,"Total children age 6-23 months receiving an adequate diet16, 17 (%)",38.5,21.4
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (height-for-age)18 (%),48.2,31.3
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weight-for-height)18 (%),7.3,6.3
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weight-for-height)19 (%),1.2,1.8
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weight-for-age)18 (%),32.6,13.1
-Puducherry,34,Mahe ,3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weight-for-height)20 (%),2.6,14.6
-Puducherry,34,Mahe ,3,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18,6.2,9
-Puducherry,34,Mahe ,3,Nutritional Status of Women,Women who are overweight or obese (BMI ‚Äö√¢‚Ä¢25,28.8,41.6
-Puducherry,34,Mahe ,3,Nutritional Status of Women,Women who have high risk waist-to-hip ratio (‚Äö√¢‚Ä¢0,65.6,0
-Puducherry,34,Mahe ,3,Anaemia among Children and Women,Children age 6-59 months who are anaemic (<11,36.9,41.3
-Puducherry,34,Mahe ,3,Anaemia among Children and Women,Non-pregnant women age 15-49 years who are anaemic (<12,38.8,37.1
-Puducherry,34,Mahe ,3,Anaemia among Children and Women,Pregnant women age 15-49 years who are anaemic (<11,25.6,32.6
-Puducherry,34,Mahe ,3,Anaemia among Children and Women,All women age 15-49 years who are anaemic22 (%),38.4,37
-Puducherry,34,Mahe ,3,Anaemia among Children and Women,All women age 15-19 years who are anaemic22 (%),43.5,41.2
-Puducherry,34,Mahe ,3,Blood Sugar Level among women,Blood sugar level - high (141-160 mg/dl)23 (%),14.6,0
-Puducherry,34,Mahe ,3,Blood Sugar Level among women,Blood sugar level - very high (>160 mg/dl)23 (%),9.2,0
-Puducherry,34,Mahe ,3,Blood Sugar Level among women,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),27.1,0
-Puducherry,34,Mahe ,3,Blood Sugar Level among men,Blood sugar level - high (141-160 mg/dl)23 (%),14.6,0
-Puducherry,34,Mahe ,3,Blood Sugar Level among men,Blood sugar level - very high (>160 mg/dl)23 (%),10.5,0
-Puducherry,34,Mahe ,3,Blood Sugar Level among men,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),28.6,0
-Puducherry,34,Mahe ,3,Hypertension among women,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),20.2,0
-Puducherry,34,Mahe ,3,Hypertension among women,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),9.3,0
-Puducherry,34,Mahe ,3,Hypertension among women,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),33.3,0
-Puducherry,34,Mahe ,3,Hypertension among men,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),24.8,0
-Puducherry,34,Mahe ,3,Hypertension among men,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),9.4,0
-Puducherry,34,Mahe ,3,Hypertension among men,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),37.7,0
-Puducherry,34,Mahe ,3,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),4.3,0
-Puducherry,34,Mahe ,3,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),2.1,0
-Puducherry,34,Mahe ,3,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),1.6,0
-Puducherry,34,Mahe ,3,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),1,0
-Puducherry,34,Mahe ,3,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),12.6,0
-Puducherry,34,Mahe ,3,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),0.6,0
-Puducherry,34,Mahe ,3,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),23.2,0
-Puducherry,34,Puducherry,2,Population and Household Profile,Female population age 6 years and above who ever attended school (%),83.8,80.3
-Puducherry,34,Puducherry,2,Population and Household Profile,Population below age 15 years (%),20.1,23.7
-Puducherry,34,Puducherry,2,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",1106,1055
-Puducherry,34,Puducherry,2,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",963,809
-Puducherry,34,Puducherry,2,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),99.6,99.2
-Puducherry,34,Puducherry,2,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),91.3,0
-Puducherry,34,Puducherry,2,Population and Household Profile,Population living in households with electricity (%),100,99.8
-Puducherry,34,Puducherry,2,Population and Household Profile,Population living in households with an improved drinking-water source1 (%),100,99.9
-Puducherry,34,Puducherry,2,Population and Household Profile,Population living in households that use an improved sanitation facility2 (%),84.6,61.9
-Puducherry,34,Puducherry,2,Population and Household Profile,Households using clean fuel for cooking3 (%),95,86.9
-Puducherry,34,Puducherry,2,Population and Household Profile,Households using iodized salt (%),93.8,93.6
-Puducherry,34,Puducherry,2,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),31.3,31.2
-Puducherry,34,Puducherry,2,Population and Household Profile,Children age 5 years who attended pre-primary school during the school year 2019-20 (%),20.9,0
-Puducherry,34,Puducherry,2,Characteristics of Women,Women who are literate4 (%),90.1,0
-Puducherry,34,Puducherry,2,Characteristics of Women,Women with 10 or more years of schooling (%),67.2,59.5
-Puducherry,34,Puducherry,2,Marriage and Fertility,Women age 20-24 years married before age 18 years (%),5.7,9.9
-Puducherry,34,Puducherry,2,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),0.6,1.5
-Puducherry,34,Puducherry,2,Marriage and Fertility,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),5.3,3.1
-Puducherry,34,Puducherry,2,Marriage and Fertility,Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),99.2,98.7
-Puducherry,34,Puducherry,2,Current Use of Family Planning Methods,Any method6 (%),66.5,65
-Puducherry,34,Puducherry,2,Current Use of Family Planning Methods,Any modern method6 (%),62.1,64.6
-Puducherry,34,Puducherry,2,Current Use of Family Planning Methods,Female sterilization (%),53.3,60.9
-Puducherry,34,Puducherry,2,Current Use of Family Planning Methods,Male sterilization (%),0.3,0
-Puducherry,34,Puducherry,2,Current Use of Family Planning Methods,IUD/PPIUD (%),1.9,2.9
-Puducherry,34,Puducherry,2,Current Use of Family Planning Methods,Pill (%),0.5,0.4
-Puducherry,34,Puducherry,2,Current Use of Family Planning Methods,Condom (%),5.2,0.3
-Puducherry,34,Puducherry,2,Current Use of Family Planning Methods,Injectables (%),0.5,0
-Puducherry,34,Puducherry,2,Unmet Need for Family Planning,Total unmet need7 (%),11.4,7.3
-Puducherry,34,Puducherry,2,Unmet Need for Family Planning,Unmet need for spacing7 (%),3.1,4.2
-Puducherry,34,Puducherry,2,Quality of Family Planning Services,Health worker ever talked to female non-users about family planning (%),24.6,35.6
-Puducherry,34,Puducherry,2,Quality of Family Planning Services,Current users ever told about side effects of current method8 (%),60.3,70.8
-Puducherry,34,Puducherry,2,Maternal and Child Health,Mothers who had an antenatal check-up in the first trimester (%),82.2,83.6
-Puducherry,34,Puducherry,2,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),87,88.6
-Puducherry,34,Puducherry,2,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus9 (%),91.8,83.6
-Puducherry,34,Puducherry,2,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),85.3,65.2
-Puducherry,34,Puducherry,2,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),64.1,34.3
-Puducherry,34,Puducherry,2,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.9,98.6
-Puducherry,34,Puducherry,2,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.1,87.8
-Puducherry,34,Puducherry,2,Maternal and Child Health,Average out-of-pocket expenditure per delivery in a public health facility (Rs,3317,1997
-Puducherry,34,Puducherry,2,Maternal and Child Health,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0,0
-Puducherry,34,Puducherry,2,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95,0
-Puducherry,34,Puducherry,2,Delivery Care,Institutional births (%),99.5,100
-Puducherry,34,Puducherry,2,Delivery Care,Institutional births in public facility (%),81.9,87.3
-Puducherry,34,Puducherry,2,Delivery Care,Home births that were conducted by skilled health personnel10 (%),0.5,0
-Puducherry,34,Puducherry,2,Delivery Care,Births attended by skilled health personnel10 (%),100,100
-Puducherry,34,Puducherry,2,Delivery Care,Births delivered by caesarean section (%),32.1,28.9
-Puducherry,34,Puducherry,2,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),33.5,31.6
-Puducherry,34,Puducherry,2,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),32,28.5
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),80.1,91.9
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),87.6,93.6
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received BCG (%),95.5,100
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of polio vaccine13 (%),86.1,96.5
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),90.7,97
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),95.5,96.2
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),57.7,0
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),4.5,0
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),86.5,90.2
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),82.6,76.7
-Puducherry,34,Puducherry,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.9,94.2
-Puducherry,34,Puducherry,2,Treatment of Childhood Diseases,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.2,5.8
-Puducherry,34,Puducherry,2,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.5,12.9
-Puducherry,34,Puducherry,2,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0,73.1
-Puducherry,34,Puducherry,2,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0,73.9
-Puducherry,34,Puducherry,2,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,74.1
-Puducherry,34,Puducherry,2,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),5.6,2.7
-Puducherry,34,Puducherry,2,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),62.4,72.2
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth15 (%),52.5,67.1
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed16 (%),0,0
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),0,0
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,"Breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",25.2,20.9
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,"Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",0,0
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,"Total children age 6-23 months receiving an adequate diet16, 17 (%)",25.5,31.3
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (height-for-age)18 (%),17,24.1
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weight-for-height)18 (%),11.6,24.6
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weight-for-height)19 (%),3.7,7
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weight-for-age)18 (%),13.1,21.3
-Puducherry,34,Puducherry,2,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weight-for-height)20 (%),3.4,1.4
-Puducherry,34,Puducherry,2,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18,8.1,10.6
-Puducherry,34,Puducherry,2,Nutritional Status of Women,Women who are overweight or obese (BMI ‚Äö√¢‚Ä¢25,48.5,36.2
-Puducherry,34,Puducherry,2,Nutritional Status of Women,Women who have high risk waist-to-hip ratio (‚Äö√¢‚Ä¢0,51.1,0
-Puducherry,34,Puducherry,2,Anaemia among Children and Women,Children age 6-59 months who are anaemic (<11,66.3,44.6
-Puducherry,34,Puducherry,2,Anaemia among Children and Women,Non-pregnant women age 15-49 years who are anaemic (<12,57.5,53.6
-Puducherry,34,Puducherry,2,Anaemia among Children and Women,Pregnant women age 15-49 years who are anaemic (<11,0,21.6
-Puducherry,34,Puducherry,2,Anaemia among Children and Women,All women age 15-49 years who are anaemic22 (%),56.8,52.5
-Puducherry,34,Puducherry,2,Anaemia among Children and Women,All women age 15-19 years who are anaemic22 (%),60.5,55.1
-Puducherry,34,Puducherry,2,Blood Sugar Level among women,Blood sugar level - high (141-160 mg/dl)23 (%),7,0
-Puducherry,34,Puducherry,2,Blood Sugar Level among women,Blood sugar level - very high (>160 mg/dl)23 (%),9.1,0
-Puducherry,34,Puducherry,2,Blood Sugar Level among women,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),19.1,0
-Puducherry,34,Puducherry,2,Blood Sugar Level among men,Blood sugar level - high (141-160 mg/dl)23 (%),6.6,0
-Puducherry,34,Puducherry,2,Blood Sugar Level among men,Blood sugar level - very high (>160 mg/dl)23 (%),11.8,0
-Puducherry,34,Puducherry,2,Blood Sugar Level among men,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),21,0
-Puducherry,34,Puducherry,2,Hypertension among women,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,0
-Puducherry,34,Puducherry,2,Hypertension among women,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),3.5,0
-Puducherry,34,Puducherry,2,Hypertension among women,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),22.7,0
-Puducherry,34,Puducherry,2,Hypertension among men,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),20,0
-Puducherry,34,Puducherry,2,Hypertension among men,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),6.1,0
-Puducherry,34,Puducherry,2,Hypertension among men,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),31.1,0
-Puducherry,34,Puducherry,2,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),9.2,0
-Puducherry,34,Puducherry,2,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),5,0
-Puducherry,34,Puducherry,2,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),1.9,0
-Puducherry,34,Puducherry,2,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),2.1,0
-Puducherry,34,Puducherry,2,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),14,0
-Puducherry,34,Puducherry,2,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),0.3,0
-Puducherry,34,Puducherry,2,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),27.3,0
-Puducherry,34,Yanam ,1,Population and Household Profile,Female population age 6 years and above who ever attended school (%),80.9,77.7
-Puducherry,34,Yanam ,1,Population and Household Profile,Population below age 15 years (%),21.8,25
-Puducherry,34,Yanam ,1,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",1089,1044
-Puducherry,34,Yanam ,1,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",1154,1089
-Puducherry,34,Yanam ,1,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),96,97.7
-Puducherry,34,Yanam ,1,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),94.7,0
-Puducherry,34,Yanam ,1,Population and Household Profile,Population living in households with electricity (%),99.8,99.6
-Puducherry,34,Yanam ,1,Population and Household Profile,Population living in households with an improved drinking-water source1 (%),100,100
-Puducherry,34,Yanam ,1,Population and Household Profile,Population living in households that use an improved sanitation facility2 (%),84.1,73.9
-Puducherry,34,Yanam ,1,Population and Household Profile,Households using clean fuel for cooking3 (%),98.6,92.4
-Puducherry,34,Yanam ,1,Population and Household Profile,Households using iodized salt (%),83.3,92.1
-Puducherry,34,Yanam ,1,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),29.2,42.2
-Puducherry,34,Yanam ,1,Population and Household Profile,Children age 5 years who attended pre-primary school during the school year 2019-20 (%),20.1,0
-Puducherry,34,Yanam ,1,Characteristics of Women,Women who are literate4 (%),82.2,0
-Puducherry,34,Yanam ,1,Characteristics of Women,Women with 10 or more years of schooling (%),51.6,52
-Puducherry,34,Yanam ,1,Marriage and Fertility,Women age 20-24 years married before age 18 years (%),15.9,24.5
-Puducherry,34,Yanam ,1,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),2.5,1.4
-Puducherry,34,Yanam ,1,Marriage and Fertility,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),4.8,11.3
-Puducherry,34,Yanam ,1,Marriage and Fertility,Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),93.1,70.6
-Puducherry,34,Yanam ,1,Current Use of Family Planning Methods,Any method6 (%),79.6,70.6
-Puducherry,34,Yanam ,1,Current Use of Family Planning Methods,Any modern method6 (%),78.5,70
-Puducherry,34,Yanam ,1,Current Use of Family Planning Methods,Female sterilization (%),71.8,68.5
-Puducherry,34,Yanam ,1,Current Use of Family Planning Methods,Male sterilization (%),1.9,0.4
-Puducherry,34,Yanam ,1,Current Use of Family Planning Methods,IUD/PPIUD (%),0.9,0.6
-Puducherry,34,Yanam ,1,Current Use of Family Planning Methods,Pill (%),0.4,0
-Puducherry,34,Yanam ,1,Current Use of Family Planning Methods,Condom (%),2.9,0.6
-Puducherry,34,Yanam ,1,Current Use of Family Planning Methods,Injectables (%),0.2,0
-Puducherry,34,Yanam ,1,Unmet Need for Family Planning,Total unmet need7 (%),1.2,7.2
-Puducherry,34,Yanam ,1,Unmet Need for Family Planning,Unmet need for spacing7 (%),0.3,4.2
-Puducherry,34,Yanam ,1,Quality of Family Planning Services,Health worker ever talked to female non-users about family planning (%),34.9,37.8
-Puducherry,34,Yanam ,1,Quality of Family Planning Services,Current users ever told about side effects of current method8 (%),59.4,62.4
-Puducherry,34,Yanam ,1,Maternal and Child Health,Mothers who had an antenatal check-up in the first trimester (%),95.5,70.6
-Puducherry,34,Yanam ,1,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),79.8,76.3
-Puducherry,34,Yanam ,1,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus9 (%),97.7,92.6
-Puducherry,34,Yanam ,1,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),81,78.1
-Puducherry,34,Yanam ,1,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),72.4,59.5
-Puducherry,34,Yanam ,1,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.2,94.1
-Puducherry,34,Yanam ,1,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),97.1,85.8
-Puducherry,34,Yanam ,1,Maternal and Child Health,Average out-of-pocket expenditure per delivery in a public health facility (Rs,2763,2554
-Puducherry,34,Yanam ,1,Maternal and Child Health,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0,0
-Puducherry,34,Yanam ,1,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),96.3,0
-Puducherry,34,Yanam ,1,Delivery Care,Institutional births (%),100,99.3
-Puducherry,34,Yanam ,1,Delivery Care,Institutional births in public facility (%),53.1,63.3
-Puducherry,34,Yanam ,1,Delivery Care,Home births that were conducted by skilled health personnel10 (%),0,0.4
-Puducherry,34,Yanam ,1,Delivery Care,Births attended by skilled health personnel10 (%),99,99.6
-Puducherry,34,Yanam ,1,Delivery Care,Births delivered by caesarean section (%),59.1,38.4
-Puducherry,34,Yanam ,1,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),76.8,67.1
-Puducherry,34,Yanam ,1,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),43.4,22.5
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),79.7,88.3
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),92.4,93.4
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received BCG (%),94.4,98.1
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of polio vaccine13 (%),81.5,94.6
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),90.8,96.2
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),93.3,89.9
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),34.3,0
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),49.4,0
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),90.8,90.8
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),75.8,78.6
-Puducherry,34,Yanam ,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.3,87.8
-Puducherry,34,Yanam ,1,Treatment of Childhood Diseases,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.7,12.2
-Puducherry,34,Yanam ,1,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.5,3.8
-Puducherry,34,Yanam ,1,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0,0
-Puducherry,34,Yanam ,1,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0,0
-Puducherry,34,Yanam ,1,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
-Puducherry,34,Yanam ,1,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0,1.8
-Puducherry,34,Yanam ,1,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth15 (%),36.6,60.1
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed16 (%),0,0
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),0,0
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,"Breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",1.5,12.6
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,"Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",0,0
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,"Total children age 6-23 months receiving an adequate diet16, 17 (%)",1.3,18.3
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (height-for-age)18 (%),25,32
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weight-for-height)18 (%),12.4,17.1
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weight-for-height)19 (%),4.3,7.5
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weight-for-age)18 (%),18.7,27.4
-Puducherry,34,Yanam ,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weight-for-height)20 (%),6.9,4.7
-Puducherry,34,Yanam ,1,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18,8.5,11.9
-Puducherry,34,Yanam ,1,Nutritional Status of Women,Women who are overweight or obese (BMI ‚Äö√¢‚Ä¢25,51.6,36.2
-Puducherry,34,Yanam ,1,Nutritional Status of Women,Women who have high risk waist-to-hip ratio (‚Äö√¢‚Ä¢0,65,0
-Puducherry,34,Yanam ,1,Anaemia among Children and Women,Children age 6-59 months who are anaemic (<11,39.7,38.2
-Puducherry,34,Yanam ,1,Anaemia among Children and Women,Non-pregnant women age 15-49 years who are anaemic (<12,43.5,44.4
-Puducherry,34,Yanam ,1,Anaemia among Children and Women,Pregnant women age 15-49 years who are anaemic (<11,0,25.1
-Puducherry,34,Yanam ,1,Anaemia among Children and Women,All women age 15-49 years who are anaemic22 (%),43.1,43.7
-Puducherry,34,Yanam ,1,Anaemia among Children and Women,All women age 15-19 years who are anaemic22 (%),44.8,45.1
-Puducherry,34,Yanam ,1,Blood Sugar Level among women,Blood sugar level - high (141-160 mg/dl)23 (%),6.3,0
-Puducherry,34,Yanam ,1,Blood Sugar Level among women,Blood sugar level - very high (>160 mg/dl)23 (%),13.2,0
-Puducherry,34,Yanam ,1,Blood Sugar Level among women,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),22,0
-Puducherry,34,Yanam ,1,Blood Sugar Level among men,Blood sugar level - high (141-160 mg/dl)23 (%),8.9,0
-Puducherry,34,Yanam ,1,Blood Sugar Level among men,Blood sugar level - very high (>160 mg/dl)23 (%),14,0
-Puducherry,34,Yanam ,1,Blood Sugar Level among men,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),24.7,0
-Puducherry,34,Yanam ,1,Hypertension among women,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.3,0
-Puducherry,34,Yanam ,1,Hypertension among women,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),7.9,0
-Puducherry,34,Yanam ,1,Hypertension among women,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),32.2,0
-Puducherry,34,Yanam ,1,Hypertension among men,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),20,0
-Puducherry,34,Yanam ,1,Hypertension among men,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),8.4,0
-Puducherry,34,Yanam ,1,Hypertension among men,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),33.3,0
-Puducherry,34,Yanam ,1,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),0.7,0
-Puducherry,34,Yanam ,1,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),0.2,0
-Puducherry,34,Yanam ,1,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),2.3,0
-Puducherry,34,Yanam ,1,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),0.8,0
-Puducherry,34,Yanam ,1,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),10.3,0
-Puducherry,34,Yanam ,1,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),0.2,0
-Puducherry,34,Yanam ,1,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),18.8,0
+﻿State,ST_CEN_CD,District Name,DISTRICT,DT_CEN_CD,Category,Indicator,NFHS 5,NFHS 4
+Puducherry,34,Karaikal ,Karaikal_4,4,Anaemia among Children and Women,All women age 15-19 years who are anaemic (%),56.1,59.5
+Puducherry,34,Karaikal ,Karaikal_4,4,Anaemia among Children and Women,All women age 15-49 years who are anaemic (%),54.4,57
+Puducherry,34,Karaikal ,Karaikal_4,4,Anaemia among Children and Women,Children age 6-59 months who are anaemic ,65.5,48.4
+Puducherry,34,Karaikal ,Karaikal_4,4,Anaemia among Children and Women,Nonpregnant women age 15-49 years who are anaemic ,53.7,57.5
+Puducherry,34,Karaikal ,Karaikal_4,4,Anaemia among Children and Women,Pregnant women age 15-49 years who are anaemic,66.3,44.1
+Puducherry,34,Karaikal ,Karaikal_4,4,Blood Sugar Level among men,Male Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),22.8,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Blood Sugar Level among men,Male Blood sugar level  very high (>160 mg/dl) (%),13.5,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Blood Sugar Level among men,MaleBlood sugar level  high (141-160 mg/dl) (%),6.5,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Blood Sugar Level among women,Female Blood sugar level  high (141-160 mg/dl) (%),7.3,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Blood Sugar Level among women,Female Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),22.4,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Blood Sugar Level among women,Female Blood sugar level  very high (>160 mg/dl) (%),13,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Characteristics of Women,Women who are literate (%),88.8,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Characteristics of Women,Women with 10 or more years of schooling (%),59,61.1
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Breastfeeding children age 6-23 months receiving an adequate diet (%),18.7,27.6
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Children age 6-8 months receiving solid or semisolid food and breastmilk (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weight fo rheight)20 (%),4.3,3
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weight for height) (%),3.8,11.9
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (height for age) (%),25.5,19
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weight for age) (%),19.7,24.8
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weight for height) (%),15.3,23.3
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth (%),60.6,59.6
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Nonbreastfeeding children age 6-23 months receiving an adequate diet (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Feeding Practices and Nutritional Status of Children,Total children age 6-23 months receiving an adequate diet (%),17.9,34.6
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall (%),88.9,89.6
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from vaccination card only (%),96.6,89.3
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),96.8,92
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),96.5,85.4
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of polio vaccine (%),92.1,91.5
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),11.8,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received BCG (%),100,100
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received the first dose of measlescontaining vaccine (MCV) (%),95.9,93.7
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.4,75.8
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 24-35 months who have received a second dose of measlescontaining vaccine (MCV) (%),33.2,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Child Vaccinations and Vitamin A Supplementation,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),76.9,78.9
+Puducherry,34,Karaikal ,Karaikal_4,4,Current Use of Family Planning Methods,Any method (%),59.7,48.7
+Puducherry,34,Karaikal ,Karaikal_4,4,Current Use of Family Planning Methods,Any modern method (%),57.9,47
+Puducherry,34,Karaikal ,Karaikal_4,4,Current Use of Family Planning Methods,Condom (%),3.9,3.5
+Puducherry,34,Karaikal ,Karaikal_4,4,Current Use of Family Planning Methods,Female sterilization (%),51.3,41.1
+Puducherry,34,Karaikal ,Karaikal_4,4,Current Use of Family Planning Methods,Injectables (%),0.1,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Current Use of Family Planning Methods,IUD/PPIUD (%),1.8,1.7
+Puducherry,34,Karaikal ,Karaikal_4,4,Current Use of Family Planning Methods,Male sterilization (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Current Use of Family Planning Methods,Pill (%),0.4,0.5
+Puducherry,34,Karaikal ,Karaikal_4,4,Delivery Care,Births attended by skilled health personnel (%),99.6,100
+Puducherry,34,Karaikal ,Karaikal_4,4,Delivery Care,Births delivered by caesarean section (%),45.9,50
+Puducherry,34,Karaikal ,Karaikal_4,4,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),45.9,75.8
+Puducherry,34,Karaikal ,Karaikal_4,4,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),46.2,40.8
+Puducherry,34,Karaikal ,Karaikal_4,4,Delivery Care,Home births that were conducted by skilled health personnel (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Delivery Care,Institutional births (%),99.6,99.6
+Puducherry,34,Karaikal ,Karaikal_4,4,Delivery Care,Institutional births in public facility (%),67.2,72.8
+Puducherry,34,Karaikal ,Karaikal_4,4,Hypertension among men,Male Elevated blood pressure or taking medicine to control blood pressure (%),24.4,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Hypertension among men,Male Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.5,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Hypertension among men,Male Moderately or severely elevated blood pressure (%),6.6,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Hypertension among women,Female Elevated blood pressure or taking medicine to control blood pressure (%),20.5,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Hypertension among women,Female Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.1,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Hypertension among women,Female Moderately or severely elevated blood pressure (%),4.1,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Marriage and Fertility,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.6,4.1
+Puducherry,34,Karaikal ,Karaikal_4,4,Marriage and Fertility,Women age 15-24 years who use hygienic methods of protection during their menstrual period (%),100,95.6
+Puducherry,34,Karaikal ,Karaikal_4,4,Marriage and Fertility,Women age 2024 years married before age 18 years (%),7.2,11.6
+Puducherry,34,Karaikal ,Karaikal_4,4,Maternal and Child Health,Average out-of-pocket expenditure per delivery in a public health facility (Rs),2788,2509
+Puducherry,34,Karaikal ,Karaikal_4,4,Maternal and Child Health,Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),98.3,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),81.4,64.4
+Puducherry,34,Karaikal ,Karaikal_4,4,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),65.7,37
+Puducherry,34,Karaikal ,Karaikal_4,4,Maternal and Child Health,Mothers who had an antenatal checkup in the first trimester (%),79.2,74.4
+Puducherry,34,Karaikal ,Karaikal_4,4,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),88.3,87.2
+Puducherry,34,Karaikal ,Karaikal_4,4,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95,73.2
+Puducherry,34,Karaikal ,Karaikal_4,4,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus (%),90.7,74.7
+Puducherry,34,Karaikal ,Karaikal_4,4,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.3,96.3
+Puducherry,34,Karaikal ,Karaikal_4,4,Nutritional Status of Women,Women who are overweight or obese,39.3,38.6
+Puducherry,34,Karaikal ,Karaikal_4,4,Nutritional Status of Women,Women who have high risk waisttohip ratio,61.8,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18),12.7,15.3
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Children age 5 years who attended preprimary school during the school year 2019-20 (%),33.1,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),99.1,98.5
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),95.9,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Female population age 6 years and above who ever attended school (%),86.3,84
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Households using clean fuel for cooking (%),81.2,73.1
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Households using iodized salt (%),93,87.6
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),26.9,36
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Population below age 15 years (%),21.9,23.9
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Population living in households that use an improved sanitation facility (%),84.3,69.4
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Population living in households with an improved drinkingwater source (%),99.9,100
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,Population living in households with electricity (%),99.6,99.7
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",884,890
+Puducherry,34,Karaikal ,Karaikal_4,4,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",1132,1108
+Puducherry,34,Karaikal ,Karaikal_4,4,Quality of Family Planning Services,Current users ever told about side effects of current method (%),73.8,71.3
+Puducherry,34,Karaikal ,Karaikal_4,4,Quality of Family Planning Services,Health worker ever talked to female non-users about family planning (%),28.8,38.2
+Puducherry,34,Karaikal ,Karaikal_4,4,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),2.5,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),3,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),0.1,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),32.4,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),19.5,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),5.1,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Treatment of Childhood Diseases,Children age 12-23 months who received most of their vaccinations in a private health facility (%),4,24.2
+Puducherry,34,Karaikal ,Karaikal_4,4,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
+Puducherry,34,Karaikal ,Karaikal_4,4,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.6,8.1
+Puducherry,34,Karaikal ,Karaikal_4,4,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.1,4.1
+Puducherry,34,Karaikal ,Karaikal_4,4,Unmet Need for Family Planning,Total unmet need (%),10.2,12.2
+Puducherry,34,Karaikal ,Karaikal_4,4,Unmet Need for Family Planning,Unmet need for spacing (%),3.7,6.8
+Puducherry,34,Mahe ,Mahe_3,3,Anaemia among Children and Women,All women age 15-19 years who are anaemic (%),43.5,41.2
+Puducherry,34,Mahe ,Mahe_3,3,Anaemia among Children and Women,All women age 15-49 years who are anaemic (%),38.4,37
+Puducherry,34,Mahe ,Mahe_3,3,Anaemia among Children and Women,Children age 6-59 months who are anaemic ,36.9,41.3
+Puducherry,34,Mahe ,Mahe_3,3,Anaemia among Children and Women,Nonpregnant women age 15-49 years who are anaemic ,38.8,37.1
+Puducherry,34,Mahe ,Mahe_3,3,Anaemia among Children and Women,Pregnant women age 15-49 years who are anaemic,25.6,32.6
+Puducherry,34,Mahe ,Mahe_3,3,Blood Sugar Level among men,Male Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),28.6,0
+Puducherry,34,Mahe ,Mahe_3,3,Blood Sugar Level among men,Male Blood sugar level  very high (>160 mg/dl) (%),10.5,0
+Puducherry,34,Mahe ,Mahe_3,3,Blood Sugar Level among men,MaleBlood sugar level  high (141-160 mg/dl) (%),14.6,0
+Puducherry,34,Mahe ,Mahe_3,3,Blood Sugar Level among women,Female Blood sugar level  high (141-160 mg/dl) (%),14.6,0
+Puducherry,34,Mahe ,Mahe_3,3,Blood Sugar Level among women,Female Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),27.1,0
+Puducherry,34,Mahe ,Mahe_3,3,Blood Sugar Level among women,Female Blood sugar level  very high (>160 mg/dl) (%),9.2,0
+Puducherry,34,Mahe ,Mahe_3,3,Characteristics of Women,Women who are literate (%),99.6,0
+Puducherry,34,Mahe ,Mahe_3,3,Characteristics of Women,Women with 10 or more years of schooling (%),88.2,86.3
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Breastfeeding children age 6-23 months receiving an adequate diet (%),39.2,20.2
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Children age 6-8 months receiving solid or semisolid food and breastmilk (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weight fo rheight)20 (%),2.6,14.6
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weight for height) (%),1.2,1.8
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (height for age) (%),48.2,31.3
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weight for age) (%),32.6,13.1
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weight for height) (%),7.3,6.3
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth (%),77.8,61
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Nonbreastfeeding children age 6-23 months receiving an adequate diet (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Child Feeding Practices and Nutritional Status of Children,Total children age 6-23 months receiving an adequate diet (%),38.5,21.4
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall (%),95.3,90.6
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from vaccination card only (%),95.3,91.6
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),95.3,98.3
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),100,95.6
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of polio vaccine (%),100,95.5
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),17.9,0
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received BCG (%),100,98.3
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received the first dose of measlescontaining vaccine (MCV) (%),100,93.4
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who received most of their vaccinations in a public health facility (%),91.5,60.7
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 24-35 months who have received a second dose of measlescontaining vaccine (MCV) (%),38.3,0
+Puducherry,34,Mahe ,Mahe_3,3,Child Vaccinations and Vitamin A Supplementation,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),84.4,80.4
+Puducherry,34,Mahe ,Mahe_3,3,Current Use of Family Planning Methods,Any method (%),73.6,40.9
+Puducherry,34,Mahe ,Mahe_3,3,Current Use of Family Planning Methods,Any modern method (%),65.9,38.6
+Puducherry,34,Mahe ,Mahe_3,3,Current Use of Family Planning Methods,Condom (%),9,1.2
+Puducherry,34,Mahe ,Mahe_3,3,Current Use of Family Planning Methods,Female sterilization (%),54.4,36.9
+Puducherry,34,Mahe ,Mahe_3,3,Current Use of Family Planning Methods,Injectables (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Current Use of Family Planning Methods,IUD/PPIUD (%),1.6,0.4
+Puducherry,34,Mahe ,Mahe_3,3,Current Use of Family Planning Methods,Male sterilization (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Current Use of Family Planning Methods,Pill (%),0.1,0.1
+Puducherry,34,Mahe ,Mahe_3,3,Delivery Care,Births attended by skilled health personnel (%),100,100
+Puducherry,34,Mahe ,Mahe_3,3,Delivery Care,Births delivered by caesarean section (%),27.5,42.9
+Puducherry,34,Mahe ,Mahe_3,3,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),39.4,44.6
+Puducherry,34,Mahe ,Mahe_3,3,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),13.4,39.2
+Puducherry,34,Mahe ,Mahe_3,3,Delivery Care,Home births that were conducted by skilled health personnel (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Delivery Care,Institutional births (%),100,100
+Puducherry,34,Mahe ,Mahe_3,3,Delivery Care,Institutional births in public facility (%),45.6,31.5
+Puducherry,34,Mahe ,Mahe_3,3,Hypertension among men,Male Elevated blood pressure or taking medicine to control blood pressure (%),37.7,0
+Puducherry,34,Mahe ,Mahe_3,3,Hypertension among men,Male Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),24.8,0
+Puducherry,34,Mahe ,Mahe_3,3,Hypertension among men,Male Moderately or severely elevated blood pressure (%),9.4,0
+Puducherry,34,Mahe ,Mahe_3,3,Hypertension among women,Female Elevated blood pressure or taking medicine to control blood pressure (%),33.3,0
+Puducherry,34,Mahe ,Mahe_3,3,Hypertension among women,Female Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),20.2,0
+Puducherry,34,Mahe ,Mahe_3,3,Hypertension among women,Female Moderately or severely elevated blood pressure (%),9.3,0
+Puducherry,34,Mahe ,Mahe_3,3,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),1.8,0
+Puducherry,34,Mahe ,Mahe_3,3,Marriage and Fertility,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.7,0
+Puducherry,34,Mahe ,Mahe_3,3,Marriage and Fertility,Women age 15-24 years who use hygienic methods of protection during their menstrual period (%),98.5,96.3
+Puducherry,34,Mahe ,Mahe_3,3,Marriage and Fertility,Women age 2024 years married before age 18 years (%),2.8,4.2
+Puducherry,34,Mahe ,Mahe_3,3,Maternal and Child Health,Average out-of-pocket expenditure per delivery in a public health facility (Rs),8288,2721
+Puducherry,34,Mahe ,Mahe_3,3,Maternal and Child Health,Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.6,0
+Puducherry,34,Mahe ,Mahe_3,3,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),77.9,89.5
+Puducherry,34,Mahe ,Mahe_3,3,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),67.6,52.1
+Puducherry,34,Mahe ,Mahe_3,3,Maternal and Child Health,Mothers who had an antenatal checkup in the first trimester (%),93.7,58.1
+Puducherry,34,Mahe ,Mahe_3,3,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),85,82.3
+Puducherry,34,Mahe ,Mahe_3,3,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),96.8,83.2
+Puducherry,34,Mahe ,Mahe_3,3,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus (%),96.4,76
+Puducherry,34,Mahe ,Mahe_3,3,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),94.4,98.3
+Puducherry,34,Mahe ,Mahe_3,3,Nutritional Status of Women,Women who are overweight or obese,28.8,41.6
+Puducherry,34,Mahe ,Mahe_3,3,Nutritional Status of Women,Women who have high risk waisttohip ratio,65.6,0
+Puducherry,34,Mahe ,Mahe_3,3,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18),6.2,9
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Children age 5 years who attended preprimary school during the school year 2019-20 (%),14.4,0
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),99.4,100
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),96.8,0
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Female population age 6 years and above who ever attended school (%),99.2,95.9
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Households using clean fuel for cooking (%),90.9,86.9
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Households using iodized salt (%),99.8,98.8
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),23.6,43.8
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Population below age 15 years (%),16.8,22.2
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Population living in households that use an improved sanitation facility (%),99.8,98.2
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Population living in households with an improved drinkingwater source (%),98,90.5
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,Population living in households with electricity (%),99.7,99.8
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",1202,1153
+Puducherry,34,Mahe ,Mahe_3,3,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",1164,1201
+Puducherry,34,Mahe ,Mahe_3,3,Quality of Family Planning Services,Current users ever told about side effects of current method (%),74.1,71.3
+Puducherry,34,Mahe ,Mahe_3,3,Quality of Family Planning Services,Health worker ever talked to female non-users about family planning (%),12.4,27.6
+Puducherry,34,Mahe ,Mahe_3,3,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),2.1,0
+Puducherry,34,Mahe ,Mahe_3,3,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),4.3,0
+Puducherry,34,Mahe ,Mahe_3,3,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),1.6,0
+Puducherry,34,Mahe ,Mahe_3,3,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),23.2,0
+Puducherry,34,Mahe ,Mahe_3,3,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),12.6,0
+Puducherry,34,Mahe ,Mahe_3,3,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),0.6,0
+Puducherry,34,Mahe ,Mahe_3,3,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),1,0
+Puducherry,34,Mahe ,Mahe_3,3,Treatment of Childhood Diseases,Children age 12-23 months who received most of their vaccinations in a private health facility (%),8.5,39.3
+Puducherry,34,Mahe ,Mahe_3,3,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0,0
+Puducherry,34,Mahe ,Mahe_3,3,Unmet Need for Family Planning,Total unmet need (%),6.8,16.4
+Puducherry,34,Mahe ,Mahe_3,3,Unmet Need for Family Planning,Unmet need for spacing (%),4.9,10.5
+Puducherry,34,Puducherry,Puducherry_2,2,Anaemia among Children and Women,All women age 15-19 years who are anaemic (%),60.5,55.1
+Puducherry,34,Puducherry,Puducherry_2,2,Anaemia among Children and Women,All women age 15-49 years who are anaemic (%),56.8,52.5
+Puducherry,34,Puducherry,Puducherry_2,2,Anaemia among Children and Women,Children age 6-59 months who are anaemic ,66.3,44.6
+Puducherry,34,Puducherry,Puducherry_2,2,Anaemia among Children and Women,Nonpregnant women age 15-49 years who are anaemic ,57.5,53.6
+Puducherry,34,Puducherry,Puducherry_2,2,Anaemia among Children and Women,Pregnant women age 15-49 years who are anaemic,0,0
+Puducherry,34,Puducherry,Puducherry_2,2,Blood Sugar Level among men,Male Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),21,0
+Puducherry,34,Puducherry,Puducherry_2,2,Blood Sugar Level among men,Male Blood sugar level  very high (>160 mg/dl) (%),11.8,0
+Puducherry,34,Puducherry,Puducherry_2,2,Blood Sugar Level among men,MaleBlood sugar level  high (141-160 mg/dl) (%),6.6,0
+Puducherry,34,Puducherry,Puducherry_2,2,Blood Sugar Level among women,Female Blood sugar level  high (141-160 mg/dl) (%),7,0
+Puducherry,34,Puducherry,Puducherry_2,2,Blood Sugar Level among women,Female Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),19.1,0
+Puducherry,34,Puducherry,Puducherry_2,2,Blood Sugar Level among women,Female Blood sugar level  very high (>160 mg/dl) (%),9.1,0
+Puducherry,34,Puducherry,Puducherry_2,2,Characteristics of Women,Women who are literate (%),90.1,0
+Puducherry,34,Puducherry,Puducherry_2,2,Characteristics of Women,Women with 10 or more years of schooling (%),67.2,59.5
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Breastfeeding children age 6-23 months receiving an adequate diet (%),25.2,20.9
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Children age 6-8 months receiving solid or semisolid food and breastmilk (%),0,0
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weight fo rheight)20 (%),3.4,1.4
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weight for height) (%),3.7,7
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (height for age) (%),17,24.1
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weight for age) (%),13.1,21.3
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weight for height) (%),11.6,24.6
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth (%),52.5,67.1
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed (%),0,0
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Nonbreastfeeding children age 6-23 months receiving an adequate diet (%),0,0
+Puducherry,34,Puducherry,Puducherry_2,2,Child Feeding Practices and Nutritional Status of Children,Total children age 6-23 months receiving an adequate diet (%),25.5,31.3
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall (%),80.1,91.9
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from vaccination card only (%),87.6,93.6
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),90.7,97
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),86.5,90.2
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of polio vaccine (%),86.1,96.5
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),4.5,0
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received BCG (%),95.5,100
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received the first dose of measlescontaining vaccine (MCV) (%),95.5,96.2
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.9,94.2
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 24-35 months who have received a second dose of measlescontaining vaccine (MCV) (%),57.7,0
+Puducherry,34,Puducherry,Puducherry_2,2,Child Vaccinations and Vitamin A Supplementation,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),82.6,76.7
+Puducherry,34,Puducherry,Puducherry_2,2,Current Use of Family Planning Methods,Any method (%),66.5,65
+Puducherry,34,Puducherry,Puducherry_2,2,Current Use of Family Planning Methods,Any modern method (%),62.1,64.6
+Puducherry,34,Puducherry,Puducherry_2,2,Current Use of Family Planning Methods,Condom (%),5.2,0.3
+Puducherry,34,Puducherry,Puducherry_2,2,Current Use of Family Planning Methods,Female sterilization (%),53.3,60.9
+Puducherry,34,Puducherry,Puducherry_2,2,Current Use of Family Planning Methods,Injectables (%),0.5,0
+Puducherry,34,Puducherry,Puducherry_2,2,Current Use of Family Planning Methods,IUD/PPIUD (%),1.9,2.9
+Puducherry,34,Puducherry,Puducherry_2,2,Current Use of Family Planning Methods,Male sterilization (%),0.3,0
+Puducherry,34,Puducherry,Puducherry_2,2,Current Use of Family Planning Methods,Pill (%),0.5,0.4
+Puducherry,34,Puducherry,Puducherry_2,2,Delivery Care,Births attended by skilled health personnel (%),100,100
+Puducherry,34,Puducherry,Puducherry_2,2,Delivery Care,Births delivered by caesarean section (%),32.1,28.9
+Puducherry,34,Puducherry,Puducherry_2,2,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),33.5,31.6
+Puducherry,34,Puducherry,Puducherry_2,2,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),32,28.5
+Puducherry,34,Puducherry,Puducherry_2,2,Delivery Care,Home births that were conducted by skilled health personnel (%),0.5,0
+Puducherry,34,Puducherry,Puducherry_2,2,Delivery Care,Institutional births (%),99.5,100
+Puducherry,34,Puducherry,Puducherry_2,2,Delivery Care,Institutional births in public facility (%),81.9,87.3
+Puducherry,34,Puducherry,Puducherry_2,2,Hypertension among men,Male Elevated blood pressure or taking medicine to control blood pressure (%),31.1,0
+Puducherry,34,Puducherry,Puducherry_2,2,Hypertension among men,Male Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),20,0
+Puducherry,34,Puducherry,Puducherry_2,2,Hypertension among men,Male Moderately or severely elevated blood pressure (%),6.1,0
+Puducherry,34,Puducherry,Puducherry_2,2,Hypertension among women,Female Elevated blood pressure or taking medicine to control blood pressure (%),22.7,0
+Puducherry,34,Puducherry,Puducherry_2,2,Hypertension among women,Female Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,0
+Puducherry,34,Puducherry,Puducherry_2,2,Hypertension among women,Female Moderately or severely elevated blood pressure (%),3.5,0
+Puducherry,34,Puducherry,Puducherry_2,2,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),0.6,1.5
+Puducherry,34,Puducherry,Puducherry_2,2,Marriage and Fertility,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),5.3,3.1
+Puducherry,34,Puducherry,Puducherry_2,2,Marriage and Fertility,Women age 15-24 years who use hygienic methods of protection during their menstrual period (%),99.2,98.7
+Puducherry,34,Puducherry,Puducherry_2,2,Marriage and Fertility,Women age 2024 years married before age 18 years (%),5.7,9.9
+Puducherry,34,Puducherry,Puducherry_2,2,Maternal and Child Health,Average out-of-pocket expenditure per delivery in a public health facility (Rs),3317,1997
+Puducherry,34,Puducherry,Puducherry_2,2,Maternal and Child Health,Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%),0,0
+Puducherry,34,Puducherry,Puducherry_2,2,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95,0
+Puducherry,34,Puducherry,Puducherry_2,2,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),85.3,65.2
+Puducherry,34,Puducherry,Puducherry_2,2,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),64.1,34.3
+Puducherry,34,Puducherry,Puducherry_2,2,Maternal and Child Health,Mothers who had an antenatal checkup in the first trimester (%),82.2,83.6
+Puducherry,34,Puducherry,Puducherry_2,2,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),87,88.6
+Puducherry,34,Puducherry,Puducherry_2,2,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.1,87.8
+Puducherry,34,Puducherry,Puducherry_2,2,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus (%),91.8,83.6
+Puducherry,34,Puducherry,Puducherry_2,2,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.9,98.6
+Puducherry,34,Puducherry,Puducherry_2,2,Nutritional Status of Women,Women who are overweight or obese,48.5,36.2
+Puducherry,34,Puducherry,Puducherry_2,2,Nutritional Status of Women,Women who have high risk waisttohip ratio,51.1,0
+Puducherry,34,Puducherry,Puducherry_2,2,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18),8.1,10.6
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Children age 5 years who attended preprimary school during the school year 2019-20 (%),20.9,0
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),99.6,99.2
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),91.3,0
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Female population age 6 years and above who ever attended school (%),83.8,80.3
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Households using clean fuel for cooking (%),95,86.9
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Households using iodized salt (%),93.8,93.6
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),31.3,31.2
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Population below age 15 years (%),20.1,23.7
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Population living in households that use an improved sanitation facility (%),84.6,61.9
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Population living in households with an improved drinkingwater source (%),100,99.9
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,Population living in households with electricity (%),100,99.8
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",963,809
+Puducherry,34,Puducherry,Puducherry_2,2,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",1106,1055
+Puducherry,34,Puducherry,Puducherry_2,2,Quality of Family Planning Services,Current users ever told about side effects of current method (%),60.3,70.8
+Puducherry,34,Puducherry,Puducherry_2,2,Quality of Family Planning Services,Health worker ever talked to female non-users about family planning (%),24.6,35.6
+Puducherry,34,Puducherry,Puducherry_2,2,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),5,0
+Puducherry,34,Puducherry,Puducherry_2,2,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),9.2,0
+Puducherry,34,Puducherry,Puducherry_2,2,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),1.9,0
+Puducherry,34,Puducherry,Puducherry_2,2,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),27.3,0
+Puducherry,34,Puducherry,Puducherry_2,2,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),14,0
+Puducherry,34,Puducherry,Puducherry_2,2,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),0.3,0
+Puducherry,34,Puducherry,Puducherry_2,2,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),2.1,0
+Puducherry,34,Puducherry,Puducherry_2,2,Treatment of Childhood Diseases,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.2,5.8
+Puducherry,34,Puducherry,Puducherry_2,2,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
+Puducherry,34,Puducherry,Puducherry_2,2,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0,0
+Puducherry,34,Puducherry,Puducherry_2,2,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0,0
+Puducherry,34,Puducherry,Puducherry_2,2,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),62.4,72.2
+Puducherry,34,Puducherry,Puducherry_2,2,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.5,12.9
+Puducherry,34,Puducherry,Puducherry_2,2,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),5.6,2.7
+Puducherry,34,Puducherry,Puducherry_2,2,Unmet Need for Family Planning,Total unmet need (%),11.4,7.3
+Puducherry,34,Puducherry,Puducherry_2,2,Unmet Need for Family Planning,Unmet need for spacing (%),3.1,4.2
+Puducherry,34,Yanam ,Yanam_1,1,Anaemia among Children and Women,All women age 15-19 years who are anaemic (%),44.8,45.1
+Puducherry,34,Yanam ,Yanam_1,1,Anaemia among Children and Women,All women age 15-49 years who are anaemic (%),43.1,43.7
+Puducherry,34,Yanam ,Yanam_1,1,Anaemia among Children and Women,Children age 6-59 months who are anaemic ,39.7,38.2
+Puducherry,34,Yanam ,Yanam_1,1,Anaemia among Children and Women,Nonpregnant women age 15-49 years who are anaemic ,43.5,44.4
+Puducherry,34,Yanam ,Yanam_1,1,Anaemia among Children and Women,Pregnant women age 15-49 years who are anaemic,0,0
+Puducherry,34,Yanam ,Yanam_1,1,Blood Sugar Level among men,Male Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),24.7,0
+Puducherry,34,Yanam ,Yanam_1,1,Blood Sugar Level among men,Male Blood sugar level  very high (>160 mg/dl) (%),14,0
+Puducherry,34,Yanam ,Yanam_1,1,Blood Sugar Level among men,MaleBlood sugar level  high (141-160 mg/dl) (%),8.9,0
+Puducherry,34,Yanam ,Yanam_1,1,Blood Sugar Level among women,Female Blood sugar level  high (141-160 mg/dl) (%),6.3,0
+Puducherry,34,Yanam ,Yanam_1,1,Blood Sugar Level among women,Female Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),22,0
+Puducherry,34,Yanam ,Yanam_1,1,Blood Sugar Level among women,Female Blood sugar level  very high (>160 mg/dl) (%),13.2,0
+Puducherry,34,Yanam ,Yanam_1,1,Characteristics of Women,Women who are literate (%),82.2,0
+Puducherry,34,Yanam ,Yanam_1,1,Characteristics of Women,Women with 10 or more years of schooling (%),51.6,52
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Breastfeeding children age 6-23 months receiving an adequate diet (%),1.5,12.6
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Children age 6-8 months receiving solid or semisolid food and breastmilk (%),0,0
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weight fo rheight)20 (%),6.9,4.7
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weight for height) (%),4.3,7.5
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (height for age) (%),25,32
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weight for age) (%),18.7,27.4
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weight for height) (%),12.4,17.1
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth (%),36.6,60.1
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed (%),0,0
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Nonbreastfeeding children age 6-23 months receiving an adequate diet (%),0,0
+Puducherry,34,Yanam ,Yanam_1,1,Child Feeding Practices and Nutritional Status of Children,Total children age 6-23 months receiving an adequate diet (%),1.3,18.3
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall (%),79.7,88.3
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from vaccination card only (%),92.4,93.4
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),90.8,96.2
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),90.8,90.8
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of polio vaccine (%),81.5,94.6
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),49.4,0
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received BCG (%),94.4,98.1
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received the first dose of measlescontaining vaccine (MCV) (%),93.3,89.9
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.3,87.8
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 24-35 months who have received a second dose of measlescontaining vaccine (MCV) (%),34.3,0
+Puducherry,34,Yanam ,Yanam_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),75.8,78.6
+Puducherry,34,Yanam ,Yanam_1,1,Current Use of Family Planning Methods,Any method (%),79.6,70.6
+Puducherry,34,Yanam ,Yanam_1,1,Current Use of Family Planning Methods,Any modern method (%),78.5,70
+Puducherry,34,Yanam ,Yanam_1,1,Current Use of Family Planning Methods,Condom (%),2.9,0.6
+Puducherry,34,Yanam ,Yanam_1,1,Current Use of Family Planning Methods,Female sterilization (%),71.8,68.5
+Puducherry,34,Yanam ,Yanam_1,1,Current Use of Family Planning Methods,Injectables (%),0.2,0
+Puducherry,34,Yanam ,Yanam_1,1,Current Use of Family Planning Methods,IUD/PPIUD (%),0.9,0.6
+Puducherry,34,Yanam ,Yanam_1,1,Current Use of Family Planning Methods,Male sterilization (%),1.9,0.4
+Puducherry,34,Yanam ,Yanam_1,1,Current Use of Family Planning Methods,Pill (%),0.4,0
+Puducherry,34,Yanam ,Yanam_1,1,Delivery Care,Births attended by skilled health personnel (%),99,99.6
+Puducherry,34,Yanam ,Yanam_1,1,Delivery Care,Births delivered by caesarean section (%),59.1,38.4
+Puducherry,34,Yanam ,Yanam_1,1,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),76.8,67.1
+Puducherry,34,Yanam ,Yanam_1,1,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),43.4,22.5
+Puducherry,34,Yanam ,Yanam_1,1,Delivery Care,Home births that were conducted by skilled health personnel (%),0,0
+Puducherry,34,Yanam ,Yanam_1,1,Delivery Care,Institutional births (%),100,99.3
+Puducherry,34,Yanam ,Yanam_1,1,Delivery Care,Institutional births in public facility (%),53.1,63.3
+Puducherry,34,Yanam ,Yanam_1,1,Hypertension among men,Male Elevated blood pressure or taking medicine to control blood pressure (%),33.3,0
+Puducherry,34,Yanam ,Yanam_1,1,Hypertension among men,Male Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),20,0
+Puducherry,34,Yanam ,Yanam_1,1,Hypertension among men,Male Moderately or severely elevated blood pressure (%),8.4,0
+Puducherry,34,Yanam ,Yanam_1,1,Hypertension among women,Female Elevated blood pressure or taking medicine to control blood pressure (%),32.2,0
+Puducherry,34,Yanam ,Yanam_1,1,Hypertension among women,Female Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.3,0
+Puducherry,34,Yanam ,Yanam_1,1,Hypertension among women,Female Moderately or severely elevated blood pressure (%),7.9,0
+Puducherry,34,Yanam ,Yanam_1,1,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),2.5,1.4
+Puducherry,34,Yanam ,Yanam_1,1,Marriage and Fertility,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),4.8,11.3
+Puducherry,34,Yanam ,Yanam_1,1,Marriage and Fertility,Women age 15-24 years who use hygienic methods of protection during their menstrual period (%),93.1,70.6
+Puducherry,34,Yanam ,Yanam_1,1,Marriage and Fertility,Women age 2024 years married before age 18 years (%),15.9,24.5
+Puducherry,34,Yanam ,Yanam_1,1,Maternal and Child Health,Average out-of-pocket expenditure per delivery in a public health facility (Rs),2763,2554
+Puducherry,34,Yanam ,Yanam_1,1,Maternal and Child Health,Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%),0,0
+Puducherry,34,Yanam ,Yanam_1,1,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),96.3,0
+Puducherry,34,Yanam ,Yanam_1,1,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),81,78.1
+Puducherry,34,Yanam ,Yanam_1,1,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),72.4,59.5
+Puducherry,34,Yanam ,Yanam_1,1,Maternal and Child Health,Mothers who had an antenatal checkup in the first trimester (%),95.5,70.6
+Puducherry,34,Yanam ,Yanam_1,1,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),79.8,76.3
+Puducherry,34,Yanam ,Yanam_1,1,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),97.1,85.8
+Puducherry,34,Yanam ,Yanam_1,1,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus (%),97.7,92.6
+Puducherry,34,Yanam ,Yanam_1,1,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.2,94.1
+Puducherry,34,Yanam ,Yanam_1,1,Nutritional Status of Women,Women who are overweight or obese,51.6,36.2
+Puducherry,34,Yanam ,Yanam_1,1,Nutritional Status of Women,Women who have high risk waisttohip ratio,65,0
+Puducherry,34,Yanam ,Yanam_1,1,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18),8.5,11.9
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Children age 5 years who attended preprimary school during the school year 2019-20 (%),20.1,0
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),96,97.7
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),94.7,0
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Female population age 6 years and above who ever attended school (%),80.9,77.7
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Households using clean fuel for cooking (%),98.6,92.4
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Households using iodized salt (%),83.3,92.1
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),29.2,42.2
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Population below age 15 years (%),21.8,25
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Population living in households that use an improved sanitation facility (%),84.1,73.9
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Population living in households with an improved drinkingwater source (%),100,100
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,Population living in households with electricity (%),99.8,99.6
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",1154,1089
+Puducherry,34,Yanam ,Yanam_1,1,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",1089,1044
+Puducherry,34,Yanam ,Yanam_1,1,Quality of Family Planning Services,Current users ever told about side effects of current method (%),59.4,62.4
+Puducherry,34,Yanam ,Yanam_1,1,Quality of Family Planning Services,Health worker ever talked to female non-users about family planning (%),34.9,37.8
+Puducherry,34,Yanam ,Yanam_1,1,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),0.2,0
+Puducherry,34,Yanam ,Yanam_1,1,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),0.7,0
+Puducherry,34,Yanam ,Yanam_1,1,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),2.3,0
+Puducherry,34,Yanam ,Yanam_1,1,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),18.8,0
+Puducherry,34,Yanam ,Yanam_1,1,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),10.3,0
+Puducherry,34,Yanam ,Yanam_1,1,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),0.2,0
+Puducherry,34,Yanam ,Yanam_1,1,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),0.8,0
+Puducherry,34,Yanam ,Yanam_1,1,Treatment of Childhood Diseases,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.7,12.2
+Puducherry,34,Yanam ,Yanam_1,1,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
+Puducherry,34,Yanam ,Yanam_1,1,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0,0
+Puducherry,34,Yanam ,Yanam_1,1,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0,0
+Puducherry,34,Yanam ,Yanam_1,1,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
+Puducherry,34,Yanam ,Yanam_1,1,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.5,3.8
+Puducherry,34,Yanam ,Yanam_1,1,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0,0
+Puducherry,34,Yanam ,Yanam_1,1,Unmet Need for Family Planning,Total unmet need (%),1.2,7.2
+Puducherry,34,Yanam ,Yanam_1,1,Unmet Need for Family Planning,Unmet need for spacing (%),0.3,4.2

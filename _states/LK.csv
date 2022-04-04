@@ -1,209 +1,105 @@
-﻿State,ST_CEN_CD,District,DT_CEN_CD,Category,Indicator,NFHS 5,NFHS 4
-Ladakh,1,Kargil,4,Population and Household Profile,Female population age 6 years and above who ever attended school (%),69.6,64.3
-Ladakh,1,Kargil,4,Population and Household Profile,Population below age 15 years (%),24.5,32.1
-Ladakh,1,Kargil,4,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",975,970
-Ladakh,1,Kargil,4,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",1336,818
-Ladakh,1,Kargil,4,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),98.5,73.6
-Ladakh,1,Kargil,4,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),71.6,0
-Ladakh,1,Kargil,4,Population and Household Profile,Population living in households with electricity (%),99.1,97.6
-Ladakh,1,Kargil,4,Population and Household Profile,Population living in households with an improved drinkingwater source1 (%),90.2,88.2
-Ladakh,1,Kargil,4,Population and Household Profile,Population living in households that use an improved sanitation facility2 (%),42.3,17.9
-Ladakh,1,Kargil,4,Population and Household Profile,Households using clean fuel for cooking3 (%),58.1,43.8
-Ladakh,1,Kargil,4,Population and Household Profile,Households using iodized salt (%),98.6,98.2
-Ladakh,1,Kargil,4,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),13.6,1.9
-Ladakh,1,Kargil,4,Population and Household Profile,Children age 5 years who attended preprimary school during the school year 201920 (%),0,0
-Ladakh,1,Kargil,4,Characteristics of Women,Women who are literate4 (%),77.2,0
-Ladakh,1,Kargil,4,Characteristics of Women,Women with 10 or more years of schooling (%),50.3,42.8
-Ladakh,1,Kargil,4,Marriage and Fertility,Women age 2024 years married before age 18 years (%),2.5,4.6
-Ladakh,1,Kargil,4,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),0.4,2.3
-Ladakh,1,Kargil,4,Marriage and Fertility,Women age 1519 years who were already mothers or pregnant at the time of the survey (%),0,0.6
-Ladakh,1,Kargil,4,Marriage and Fertility,Women age 1524 years who use hygienic methods of protection during their menstrual period5 (%),74.4,50
-Ladakh,1,Kargil,4,Current Use of Family Planning Methods,Any method6 (%),46.9,62.9
-Ladakh,1,Kargil,4,Current Use of Family Planning Methods,Any modern method6 (%),41.6,59.3
-Ladakh,1,Kargil,4,Current Use of Family Planning Methods,Female sterilization (%),14.1,19.9
-Ladakh,1,Kargil,4,Current Use of Family Planning Methods,Male sterilization (%),0.3,0.1
-Ladakh,1,Kargil,4,Current Use of Family Planning Methods,IUD/PPIUD (%),5.7,25.4
-Ladakh,1,Kargil,4,Current Use of Family Planning Methods,Pill (%),6.6,4.6
-Ladakh,1,Kargil,4,Current Use of Family Planning Methods,Condom (%),8.6,6.9
-Ladakh,1,Kargil,4,Current Use of Family Planning Methods,Injectables (%),5.1,2
-Ladakh,1,Kargil,4,Unmet Need for Family Planning,Total unmet need7 (%),8.8,8.9
-Ladakh,1,Kargil,4,Unmet Need for Family Planning,Unmet need for spacing7 (%),4.9,5.4
-Ladakh,1,Kargil,4,Quality of Family Planning Services,Health worker ever talked to female nonusers about family planning (%),9.1,7.2
-Ladakh,1,Kargil,4,Quality of Family Planning Services,Current users ever told about side effects of current method8 (%),55.4,25.3
-Ladakh,1,Kargil,4,Maternal and Child Health,Mothers who had an antenatal checkup in the first trimester (%),91,82
-Ladakh,1,Kargil,4,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),88,83.6
-Ladakh,1,Kargil,4,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus9 (%),93.5,92.1
-Ladakh,1,Kargil,4,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),19.6,28.6
-Ladakh,1,Kargil,4,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),12.5,6.3
-Ladakh,1,Kargil,4,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.1,89
-Ladakh,1,Kargil,4,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),78.3,78.3
-Ladakh,1,Kargil,4,Maternal and Child Health,Average outofpocket expenditure per delivery in a public health facility (Rs,3569,2323
-Ladakh,1,Kargil,4,Maternal and Child Health,Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%),0,0
-Ladakh,1,Kargil,4,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),74.7,0
-Ladakh,1,Kargil,4,Delivery Care,Institutional births (%),93.7,85.7
-Ladakh,1,Kargil,4,Delivery Care,Institutional births in public facility (%),93.7,84.2
-Ladakh,1,Kargil,4,Delivery Care,Home births that were conducted by skilled health personnel10 (%),2.6,3.3
-Ladakh,1,Kargil,4,Delivery Care,Births attended by skilled health personnel10 (%),95.6,86.6
-Ladakh,1,Kargil,4,Delivery Care,Births delivered by caesarean section (%),32,11.1
-Ladakh,1,Kargil,4,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),0,0
-Ladakh,1,Kargil,4,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),34.2,12
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),87.5,81.9
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months fully vaccinated based on information from vaccination card only12 (%),100,92.5
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received BCG (%),100,98.9
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received 3 doses of polio vaccine13 (%),87.5,86.5
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received 3 doses of penta or DPT vaccine (%),100,89.7
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received the first dose of measlescontaining vaccine (MCV) (%),97.4,92.9
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 2435 months who have received a second dose of measlescontaining vaccine (MCV) (%),31,0
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received 3 doses of rotavirus vaccine14 (%),7.7,0
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received 3 doses of penta or hepatitis B vaccine (%),100,79.4
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 935 months who received a vitamin A dose in the last 6 months (%),85,76.4
-Ladakh,1,Kargil,4,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who received most of their vaccinations in a public health facility (%),100,100
-Ladakh,1,Kargil,4,Treatment of Childhood Diseases,Children age 1223 months who received most of their vaccinations in a private health facility (%),0,0
-Ladakh,1,Kargil,4,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.2,4.1
-Ladakh,1,Kargil,4,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0,0
-Ladakh,1,Kargil,4,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0,0
-Ladakh,1,Kargil,4,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
-Ladakh,1,Kargil,4,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.8,1.5
-Ladakh,1,Kargil,4,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),53.9,58.8
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth15 (%),71,54
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed16 (%),80.4,54.5
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,Children age 68 months receiving solid or semisolid food and breastmilk16 (%),0,0
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,"Breastfeeding children age 623 months receiving an adequate diet16, 17 (%)",18.2,19.6
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,"Nonbreastfeeding children age 623 months receiving an adequate diet16, 17 (%)",0,0
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,"Total children age 623 months receiving an adequate diet16, 17 (%)",18.5,21.4
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (heightforage)18 (%),36.5,39.6
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weightforheight)18 (%),17.7,6.8
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weightforheight)19 (%),10.5,3.1
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weightforage)18 (%),21.8,20.3
-Ladakh,1,Kargil,4,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weightforheight)20 (%),14,4
-Ladakh,1,Kargil,4,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18,3.5,15.6
-Ladakh,1,Kargil,4,Nutritional Status of Women,Women who are overweight or obese (BMI ‚Äö√¢‚Ä¢25,26.3,13.6
-Ladakh,1,Kargil,4,Nutritional Status of Women,Women who have high risk waisttohip ratio (‚Äö√¢‚Ä¢0,88,0
-Ladakh,1,Kargil,4,Anaemia among Children and Women,Children age 659 months who are anaemic (<11,87.9,87.6
-Ladakh,1,Kargil,4,Anaemia among Children and Women,Nonpregnant women age 1549 years who are anaemic (<12,92.8,72.8
-Ladakh,1,Kargil,4,Anaemia among Children and Women,Pregnant women age 1549 years who are anaemic (<11,76.7,77.9
-Ladakh,1,Kargil,4,Anaemia among Children and Women,All women age 1549 years who are anaemic22 (%),92,73.1
-Ladakh,1,Kargil,4,Anaemia among Children and Women,All women age 1519 years who are anaemic22 (%),97.1,80.6
-Ladakh,1,Kargil,4,Blood Sugar Level among women,Blood sugar level  high (141160 mg/dl)23 (%),3.2,0
-Ladakh,1,Kargil,4,Blood Sugar Level among women,Blood sugar level  very high (>160 mg/dl)23 (%),2.8,0
-Ladakh,1,Kargil,4,Blood Sugar Level among women,Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),7.3,0
-Ladakh,1,Kargil,4,Blood Sugar Level among men,Blood sugar level  high (141160 mg/dl)23 (%),4.6,0
-Ladakh,1,Kargil,4,Blood Sugar Level among men,Blood sugar level  very high (>160 mg/dl)23 (%),3.4,0
-Ladakh,1,Kargil,4,Blood Sugar Level among men,Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.2,0
-Ladakh,1,Kargil,4,Hypertension among women,Mildly elevated blood pressure (Systolic 140159 mm of Hg and/or Diastolic 9099 mm of Hg) (%),12,0
-Ladakh,1,Kargil,4,Hypertension among women,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),2.7,0
-Ladakh,1,Kargil,4,Hypertension among women,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),18.7,0
-Ladakh,1,Kargil,4,Hypertension among men,Mildly elevated blood pressure (Systolic 140159 mm of Hg and/or Diastolic 9099 mm of Hg) (%),13.2,0
-Ladakh,1,Kargil,4,Hypertension among men,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),3.8,0
-Ladakh,1,Kargil,4,Hypertension among men,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),20.1,0
-Ladakh,1,Kargil,4,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),0.4,0
-Ladakh,1,Kargil,4,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),0.4,0
-Ladakh,1,Kargil,4,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),0.2,0
-Ladakh,1,Kargil,4,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),1.9,0
-Ladakh,1,Kargil,4,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),31.9,0
-Ladakh,1,Kargil,4,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),1.4,0
-Ladakh,1,Kargil,4,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),6.8,0
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Female population age 6 years and above who ever attended school (%),66.3,60.4
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Population below age 15 years (%),21,23.3
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",967,1035
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",949,829
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),98.7,81.7
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),77.7,0
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Population living in households with electricity (%),99.8,99.8
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Population living in households with an improved drinkingwater source1 (%),87.1,77.2
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Population living in households that use an improved sanitation facility2 (%),42.4,17.8
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Households using clean fuel for cooking3 (%),93.5,87.7
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Households using iodized salt (%),99.1,99.2
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),16.2,2.6
-Ladakh,1,Leh (Ladakh),3,Population and Household Profile,Children age 5 years who attended preprimary school during the school year 201920 (%),1.6,0
-Ladakh,1,Leh (Ladakh),3,Characteristics of Women,Women who are literate4 (%),76.4,0
-Ladakh,1,Leh (Ladakh),3,Characteristics of Women,Women with 10 or more years of schooling (%),49.8,46.6
-Ladakh,1,Leh (Ladakh),3,Marriage and Fertility,Women age 2024 years married before age 18 years (%),2.5,5.2
-Ladakh,1,Leh (Ladakh),3,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),0,0.4
-Ladakh,1,Leh (Ladakh),3,Marriage and Fertility,Women age 1519 years who were already mothers or pregnant at the time of the survey (%),0,1.7
-Ladakh,1,Leh (Ladakh),3,Marriage and Fertility,Women age 1524 years who use hygienic methods of protection during their menstrual period5 (%),83,85.7
-Ladakh,1,Leh (Ladakh),3,Current Use of Family Planning Methods,Any method6 (%),55.6,70.3
-Ladakh,1,Leh (Ladakh),3,Current Use of Family Planning Methods,Any modern method6 (%),54.2,69.8
-Ladakh,1,Leh (Ladakh),3,Current Use of Family Planning Methods,Female sterilization (%),19.3,23.6
-Ladakh,1,Leh (Ladakh),3,Current Use of Family Planning Methods,Male sterilization (%),0.4,0
-Ladakh,1,Leh (Ladakh),3,Current Use of Family Planning Methods,IUD/PPIUD (%),10,34.7
-Ladakh,1,Leh (Ladakh),3,Current Use of Family Planning Methods,Pill (%),6.6,2.2
-Ladakh,1,Leh (Ladakh),3,Current Use of Family Planning Methods,Condom (%),9.3,7.9
-Ladakh,1,Leh (Ladakh),3,Current Use of Family Planning Methods,Injectables (%),7.2,1.5
-Ladakh,1,Leh (Ladakh),3,Unmet Need for Family Planning,Total unmet need7 (%),7.1,10.4
-Ladakh,1,Leh (Ladakh),3,Unmet Need for Family Planning,Unmet need for spacing7 (%),3.2,6.4
-Ladakh,1,Leh (Ladakh),3,Quality of Family Planning Services,Health worker ever talked to female nonusers about family planning (%),15.8,10.7
-Ladakh,1,Leh (Ladakh),3,Quality of Family Planning Services,Current users ever told about side effects of current method8 (%),62,31
-Ladakh,1,Leh (Ladakh),3,Maternal and Child Health,Mothers who had an antenatal checkup in the first trimester (%),80.9,76.9
-Ladakh,1,Leh (Ladakh),3,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),69.6,91.7
-Ladakh,1,Leh (Ladakh),3,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus9 (%),94.9,91.7
-Ladakh,1,Leh (Ladakh),3,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),9.5,30.4
-Ladakh,1,Leh (Ladakh),3,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),2.6,13.7
-Ladakh,1,Leh (Ladakh),3,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.5,98.6
-Ladakh,1,Leh (Ladakh),3,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),80.8,88.7
-Ladakh,1,Leh (Ladakh),3,Maternal and Child Health,Average outofpocket expenditure per delivery in a public health facility (Rs,4043,2942
-Ladakh,1,Leh (Ladakh),3,Maternal and Child Health,Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%),0,0
-Ladakh,1,Leh (Ladakh),3,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),78.6,0
-Ladakh,1,Leh (Ladakh),3,Delivery Care,Institutional births (%),96.4,96.9
-Ladakh,1,Leh (Ladakh),3,Delivery Care,Institutional births in public facility (%),95.7,95.7
-Ladakh,1,Leh (Ladakh),3,Delivery Care,Home births that were conducted by skilled health personnel10 (%),2,0.4
-Ladakh,1,Leh (Ladakh),3,Delivery Care,Births attended by skilled health personnel10 (%),98.4,97.2
-Ladakh,1,Leh (Ladakh),3,Delivery Care,Births delivered by caesarean section (%),43.1,22.1
-Ladakh,1,Leh (Ladakh),3,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),0,0
-Ladakh,1,Leh (Ladakh),3,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),44.3,22.4
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),88.9,82
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months fully vaccinated based on information from vaccination card only12 (%),100,92.6
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received BCG (%),98.2,97.9
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received 3 doses of polio vaccine13 (%),88.9,87.4
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received 3 doses of penta or DPT vaccine (%),90.6,89.8
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received the first dose of measlescontaining vaccine (MCV) (%),88.9,91.4
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 2435 months who have received a second dose of measlescontaining vaccine (MCV) (%),53.8,0
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received 3 doses of rotavirus vaccine14 (%),13.2,0
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who have received 3 doses of penta or hepatitis B vaccine (%),88.9,85.2
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 935 months who received a vitamin A dose in the last 6 months (%),89.2,69
-Ladakh,1,Leh (Ladakh),3,Child Vaccinations and Vitamin A Supplementation,Children age 1223 months who received most of their vaccinations in a public health facility (%),100,100
-Ladakh,1,Leh (Ladakh),3,Treatment of Childhood Diseases,Children age 1223 months who received most of their vaccinations in a private health facility (%),0,0
-Ladakh,1,Leh (Ladakh),3,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),10.9,2
-Ladakh,1,Leh (Ladakh),3,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),74.6,0
-Ladakh,1,Leh (Ladakh),3,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),57.2,0
-Ladakh,1,Leh (Ladakh),3,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),74.9,0
-Ladakh,1,Leh (Ladakh),3,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),7.8,0.4
-Ladakh,1,Leh (Ladakh),3,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),60,0
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth15 (%),45.9,66.3
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed16 (%),63.2,0
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,Children age 68 months receiving solid or semisolid food and breastmilk16 (%),0,0
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,"Breastfeeding children age 623 months receiving an adequate diet16, 17 (%)",23.3,24.6
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,"Nonbreastfeeding children age 623 months receiving an adequate diet16, 17 (%)",0,0
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,"Total children age 623 months receiving an adequate diet16, 17 (%)",29.2,26.7
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (heightforage)18 (%),24.3,20.6
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weightforheight)18 (%),17.2,12.4
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weightforheight)19 (%),7.6,7.4
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weightforage)18 (%),19,16.8
-Ladakh,1,Leh (Ladakh),3,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weightforheight)20 (%),12.7,4
-Ladakh,1,Leh (Ladakh),3,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18,5.3,5.2
-Ladakh,1,Leh (Ladakh),3,Nutritional Status of Women,Women who are overweight or obese (BMI ‚Äö√¢‚Ä¢25,30.2,19.2
-Ladakh,1,Leh (Ladakh),3,Nutritional Status of Women,Women who have high risk waisttohip ratio (‚Äö√¢‚Ä¢0,84.6,0
-Ladakh,1,Leh (Ladakh),3,Anaemia among Children and Women,Children age 659 months who are anaemic (<11,95.5,95.8
-Ladakh,1,Leh (Ladakh),3,Anaemia among Children and Women,Nonpregnant women age 1549 years who are anaemic (<12,94.6,84.2
-Ladakh,1,Leh (Ladakh),3,Anaemia among Children and Women,Pregnant women age 1549 years who are anaemic (<11,79,81
-Ladakh,1,Leh (Ladakh),3,Anaemia among Children and Women,All women age 1549 years who are anaemic22 (%),93.5,84.1
-Ladakh,1,Leh (Ladakh),3,Anaemia among Children and Women,All women age 1519 years who are anaemic22 (%),96.8,83.2
-Ladakh,1,Leh (Ladakh),3,Blood Sugar Level among women,Blood sugar level  high (141160 mg/dl)23 (%),4.6,0
-Ladakh,1,Leh (Ladakh),3,Blood Sugar Level among women,Blood sugar level  very high (>160 mg/dl)23 (%),0.7,0
-Ladakh,1,Leh (Ladakh),3,Blood Sugar Level among women,Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),6.1,0
-Ladakh,1,Leh (Ladakh),3,Blood Sugar Level among men,Blood sugar level  high (141160 mg/dl)23 (%),4.2,0
-Ladakh,1,Leh (Ladakh),3,Blood Sugar Level among men,Blood sugar level  very high (>160 mg/dl)23 (%),1.6,0
-Ladakh,1,Leh (Ladakh),3,Blood Sugar Level among men,Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),6.4,0
-Ladakh,1,Leh (Ladakh),3,Hypertension among women,Mildly elevated blood pressure (Systolic 140159 mm of Hg and/or Diastolic 9099 mm of Hg) (%),8.7,0
-Ladakh,1,Leh (Ladakh),3,Hypertension among women,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),0.7,0
-Ladakh,1,Leh (Ladakh),3,Hypertension among women,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),12.8,0
-Ladakh,1,Leh (Ladakh),3,Hypertension among men,Mildly elevated blood pressure (Systolic 140159 mm of Hg and/or Diastolic 9099 mm of Hg) (%),9.2,0
-Ladakh,1,Leh (Ladakh),3,Hypertension among men,Moderately or severely elevated blood pressure (Systolic ‚Äö√¢‚Ä¢160mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢100mm of Hg) (%),0.8,0
-Ladakh,1,Leh (Ladakh),3,Hypertension among men,Elevated blood pressure (Systolic ‚Äö√¢‚Ä¢140 mm of Hg and/or Diastolic ‚Äö√¢‚Ä¢90 mm of Hg) or taking medicine to control blood pressure (%),14.7,0
-Ladakh,1,Leh (Ladakh),3,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),0.2,0
-Ladakh,1,Leh (Ladakh),3,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),0,0
-Ladakh,1,Leh (Ladakh),3,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),0.2,0
-Ladakh,1,Leh (Ladakh),3,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),4.4,0
-Ladakh,1,Leh (Ladakh),3,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),39.5,0
-Ladakh,1,Leh (Ladakh),3,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),6.1,0
-Ladakh,1,Leh (Ladakh),3,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),40.6,0
+﻿State,ST_CEN_CD,District Name,DISTRICT,DT_CEN_CD,Category,Indicator,NFHS 5,NFHS 4
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Anaemia among Children and Women,All women age 15-19 years who are anaemic (%),31.4,59
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Anaemia among Children and Women,All women age 15-49 years who are anaemic (%),25.8,46
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Anaemia among Children and Women,Children age 6-59 months who are anaemic ,43.1,53.6
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Anaemia among Children and Women,Nonpregnant women age 15-49 years who are anaemic ,26,46.3
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Anaemia among Children and Women,Pregnant women age 15-49 years who are anaemic,20.9,39
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Blood Sugar Level among men,Male Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),20.7,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Blood Sugar Level among men,Male Blood sugar level  very high (>160 mg/dl) (%),8.1,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Blood Sugar Level among men,MaleBlood sugar level  high (141-160 mg/dl) (%),10.2,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Blood Sugar Level among women,Female Blood sugar level  high (141-160 mg/dl) (%),8.4,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Blood Sugar Level among women,Female Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),19.5,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Blood Sugar Level among women,Female Blood sugar level  very high (>160 mg/dl) (%),9.9,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Characteristics of Women,Women who are literate (%),96.5,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Characteristics of Women,Women with 10 or more years of schooling (%),67.8,56.8
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Breastfeeding children age 6-23 months receiving an adequate diet (%),20.2,16.8
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Children age 6-8 months receiving solid or semisolid food and breastmilk (%),0,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are overweight (weight fo rheight)20 (%),10.5,1.6
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are severely wasted (weight for height) (%),8.7,2.9
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are stunted (height for age) (%),32,26.8
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are underweight (weight for age) (%),25.8,23.6
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Children under 5 years who are wasted (weight for height) (%),17.4,13.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Children under age 3 years breastfed within one hour of birth (%),76.3,57.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Children under age 6 months exclusively breastfed (%),67,54.8
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Nonbreastfeeding children age 6-23 months receiving an adequate diet (%),0,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Feeding Practices and Nutritional Status of Children,Total children age 6-23 months receiving an adequate diet (%),19,15.9
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall (%),86.1,89
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months fully vaccinated based on information from vaccination card only (%),91.7,93.2
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),91,95.1
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),88.9,88.9
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of polio vaccine (%),86.1,92.1
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),12.7,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received BCG (%),94.2,100
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who have received the first dose of measlescontaining vaccine (MCV) (%),91,93.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100,100
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 24-35 months who have received a second dose of measlescontaining vaccine (MCV) (%),11.7,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Child Vaccinations and Vitamin A Supplementation,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),44.8,51.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Current Use of Family Planning Methods,Any method (%),52.6,29.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Current Use of Family Planning Methods,Any modern method (%),30.1,15.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Current Use of Family Planning Methods,Condom (%),4.1,4.1
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Current Use of Family Planning Methods,Female sterilization (%),20.7,10.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Current Use of Family Planning Methods,Injectables (%),0,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Current Use of Family Planning Methods,IUD/PPIUD (%),1,0.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Current Use of Family Planning Methods,Male sterilization (%),0,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Current Use of Family Planning Methods,Pill (%),1.2,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Delivery Care,Births attended by skilled health personnel (%),100,100
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Delivery Care,Births delivered by caesarean section (%),31.3,38.4
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Delivery Care,Births in a private health facility that were delivered by caesarean section (%),37.7,59.9
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Delivery Care,Births in a public health facility that were delivered by caesarean section (%),28.2,27.1
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Delivery Care,Home births that were conducted by skilled health personnel (%),0.4,0.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Delivery Care,Institutional births (%),99.6,99.3
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Delivery Care,Institutional births in public facility (%),65.3,64.3
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Hypertension among men,Male Elevated blood pressure or taking medicine to control blood pressure (%),24.7,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Hypertension among men,Male Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.6,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Hypertension among men,Male Moderately or severely elevated blood pressure (%),5.1,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Hypertension among women,Female Elevated blood pressure or taking medicine to control blood pressure (%),24.8,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Hypertension among women,Female Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.9,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Hypertension among women,Female Moderately or severely elevated blood pressure (%),6.5,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Marriage and Fertility,Births in the 5 years preceding the survey that are third or higher order (%),56.4,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Marriage and Fertility,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),80.3,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Marriage and Fertility,Women age 15-24 years who use hygienic methods of protection during their menstrual period (%),1.3,1.9
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Marriage and Fertility,Women age 2024 years married before age 18 years (%),80.9,76.3
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Maternal and Child Health,Average out-of-pocket expenditure per delivery in a public health facility (Rs),2533,4580
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Maternal and Child Health,Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%),0,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Maternal and Child Health,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.7,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Maternal and Child Health,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),80.1,81.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Maternal and Child Health,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),61.7,59.1
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Maternal and Child Health,Mothers who had an antenatal checkup in the first trimester (%),99.6,90.6
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Maternal and Child Health,Mothers who had at least 4 antenatal care visits (%),88.3,82.3
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Maternal and Child Health,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.6,92.7
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Maternal and Child Health,Mothers whose last birth was protected against neonatal tetanus (%),99.4,93.6
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Maternal and Child Health,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),77.8,96.3
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Nutritional Status of Women,Women who are overweight or obese,33.5,40.6
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Nutritional Status of Women,Women who have high risk waisttohip ratio,68.4,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Nutritional Status of Women,Women whose Body Mass Index (BMI) is below normal (BMI <18),8,13.5
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Children age 5 years who attended preprimary school during the school year 2019-20 (%),32,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Children under age 5 years whose birth was registered with the civil authority (%),100,99.1
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Deaths in the last 3 years registered with the civil authority (%),96.6,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Female population age 6 years and above who ever attended school (%),93,91.1
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Households using clean fuel for cooking (%),59.4,31.8
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Households using iodized salt (%),96.7,96.3
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Households with any usual member covered under a health insurance/financing scheme (%),60.1,2.9
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Population below age 15 years (%),22.3,23.2
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Population living in households that use an improved sanitation facility (%),99.8,99.6
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Population living in households with an improved drinkingwater source (%),92.9,91.1
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,Population living in households with electricity (%),99.8,100
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",1051,905
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Population and Household Profile,"Sex ratio of the total population (females per 1,000 males)",1187,1022
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Quality of Family Planning Services,Current users ever told about side effects of current method (%),85,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Quality of Family Planning Services,Health worker ever talked to female non-users about family planning (%),14.8,23.8
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Screening for Cancer among Women,Ever undergone a breast examination for breast cancer (%),0.5,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Screening for Cancer among Women,Ever undergone a screening test for cervical cancer (%),1.7,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Screening for Cancer among Women,Ever undergone an oral cavity examination for oral cancer (%),0.3,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who consume alcohol (%),0.4,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Tobacco Use and Alcohol Consumption among Adults,Men age 15 years and above who use any kind of tobacco (%),28.5,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who consume alcohol (%),0.3,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Tobacco Use and Alcohol Consumption among Adults,Women age 15 years and above who use any kind of tobacco (%),17.5,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Treatment of Childhood Diseases,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Treatment of Childhood Diseases,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Treatment of Childhood Diseases,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),0,0
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Treatment of Childhood Diseases,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.3,6.3
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Treatment of Childhood Diseases,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.4,0.9
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Unmet Need for Family Planning,Total unmet need (%),12.3,16.9
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1,Unmet Need for Family Planning,Unmet need for spacing (%),8,12.7
