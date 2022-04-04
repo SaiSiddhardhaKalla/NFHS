@@ -13,7 +13,7 @@ Some of the data for phase-I has been picked from this [repo](https://github.com
 - [Change between NFHS 5 & 4](https://raw.githubusercontent.com/SaiSiddhardhaKalla/NFHS/main/India_Change.csv)% change in NFHS 5 and NFHS 4 for 641 districts.
 
 ### Issues - Known and Resolved:
-- Some inconsistencies with spellings in Indicator column in [State_wise data](https://github.com/SaiSiddhardhaKalla/NFHS/tree/main/_states).
+- <s>Some inconsistencies with spellings in Indicator column in [State_wise data](https://github.com/SaiSiddhardhaKalla/NFHS/tree/main/_states).</s>
 - <s>Need to Update Telangana NFHS 4 details</s>
 - <s>Five Districts in Chhattisgarh have wrong data:</s> 
 - <s>Uttar Bastar Kanker in Chhattisgarh only has 103 questions.</s>
