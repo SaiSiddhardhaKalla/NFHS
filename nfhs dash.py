@@ -12,6 +12,7 @@ state.insert(0, "All")
 geo=gpd.read_file('Districts.geojson')
 
 app = Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.Div([
