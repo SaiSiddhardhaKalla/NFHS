@@ -14,12 +14,6 @@ Some of the data for phase-I has been picked from this [repo](https://github.com
 - Some inconsistencies with spellings in Indicator column in [State_wise data](https://github.com/SaiSiddhardhaKalla/NFHS/tree/main/_states).
 - <s>Need to Update Telangana NFHS 4 details</s>
 - <s>Five Districts in Chhattisgarh have wrong data:</s> 
-  - <s>Rajnandgaon</s>
-  - <s>Sukma</s>
-  - <s>Surajpur</s>
-  - <s>Surguja</s>
-  - <s>Uttar Bastar Kanker</s>
-
 - <s>Uttar Bastar Kanker in Chhattisgarh only has 103 questions.</s>
 - All the States and Districts have been matched with 2011 Census Codes. However, 65 new districts have been since formed that lack district codes:
 
