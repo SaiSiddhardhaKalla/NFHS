@@ -1,5 +1,3 @@
-#from tkinter import font
-#from click import style
 import pandas as pd
 import geopandas as gpd
 import plotly.express as px
@@ -9,6 +7,9 @@ nfhs=pd.read_csv('India_Change.csv',low_memory=False)
 state = list(nfhs['State'].unique())
 state = sorted(state)
 state.insert(0, "All")
+met=['Sex ratio at birth for children born in the last five years (females per 1,000 males)',
+         'Sex ratio of the total population (females per 1,000 males)',
+         'Average out-of-pocket expenditure per delivery in a public health facility (Rs)']
 geo=gpd.read_file('Districts.geojson')
 
 app = Dash(__name__)
@@ -19,7 +20,6 @@ app.layout = html.Div([
     html.H1("National Family Health Survey")],
                  className='header'),
     html.Div(style={'background-image': 'url("/assets/blue-wave.svg")'},className='bground'),
-    # html.Div(style={'background-image': 'url("/assets/blue-wave.svg")'},className='bground_down'),
     html.Div([
     html.Label('Select a Category', style={'fontSize' : '16px'}),
     dcc.Dropdown(id="Category",
@@ -54,6 +54,20 @@ app.layout = html.Div([
                  clearable=False,
                 )],className='States'),
     html.Div([
+            html.Label('Choose a Map',style={'fontSize' : '16px'}),
+    dcc.RadioItems(id='radio',
+                              options=[{"label":"NFHS 5", "value":"NFHS 5"},
+                                             {"label":"NFHS 4", "value":"NFHS 4"},
+                                             {"label":"Change", "value":"Change"},
+                                             ],
+                              value="NFHS 5",
+                              labelStyle={
+                                                 'display': 'inline-block',
+                                                 'margin-right': '7px',
+                                                },
+                              style= {'text-align': 'center', 'color': 'black'}),
+                              ],className='radio_items'),
+    html.Div([
     html.Label('Best Performing Districts', style={'fontSize' : '16px','fontWeight':'bold'}),
     html.Div(id="top5_table")],className='top5'),
     html.Div([
@@ -68,10 +82,6 @@ app.layout = html.Div([
     html.Div([
     dcc.Graph(id='nfhs5', figure={},style={
                                              "height": "85vh",
-                                            #  'width':'70vh',
-                                            #  "display": "inline-block",
-                                            #  "border": "3px #5c5c5c solid",
-                                            #  "overflow": "absolute",
                                             })],className='n5')
 ],className='wrapper')
 
@@ -89,81 +99,423 @@ def update_ac(Categ):
     [Output('output_container', 'children'),
      Output("nfhs5", "figure")],
     [Input("Indicator", "value"),
+     Input("radio","value"),
      Input("State","value")]
      )
-def update_figure(mtric_chosen,states):
+def update_figure(mtric_chosen,rado, states):
     df3 = nfhs.copy()
     df4 = df3[df3["Indicator"] == mtric_chosen]
     container = "The indicator chosen by user was: {}".format(mtric_chosen)
-    if states == 'All':
-        fig4 = px.choropleth_mapbox(
-            data_frame = df4,
-            geojson = geo,
-            featureidkey='properties.DISTRICT', # from geojson
-            locations = 'DISTRICT', # from df
-            center = {'lon':82.8496, 'lat':22.6944},
-            mapbox_style='carto-positron',
-            zoom=3.75,
-            color='Change',
-            range_color=[-50,50],
-            color_continuous_scale=px.colors.diverging.RdBu,
-            title='Percentage Change between NFHS 4 and NFHS 5 values',
-            hover_name='District Name',
-            color_continuous_midpoint=0,
-            custom_data=[df4['District Name'],df4['State'],
-                         df4['NFHS 5'],df4['NFHS 4'],df4['Change']]
-            )
-        hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
-        hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
-        hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
-        hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
-        hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
-        fig4.update_traces(hovertemplate=hovertemp)
-        fig4.update_layout(
-                        margin=dict(l=10, r=10, t=50, b=10),
-                        paper_bgcolor='rgba(0,0,0,0)',
-                        title_font_family='Helvetica',
-                        font_family='Helvetica',
-                        dragmode='pan',
-                      )
-        return container, fig4
+    if mtric_chosen in met:
+        if rado =='NFHS 5':
+            if states == 'All':
+                fig4 = px.choropleth_mapbox(
+                    data_frame = df4,
+                    geojson = geo,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':82.8496, 'lat':22.6944},
+                    mapbox_style='carto-positron',
+                    zoom=3.75,
+                    color='NFHS 5',
+                    range_color=[650,1300],
+                    color_continuous_scale=px.colors.sequential.deep,
+                    title='Percentage Change between NFHS 4 and NFHS 5 values',
+                    hover_name='District Name',
+                    custom_data=[df4['District Name'],df4['State'],
+                                df4['NFHS 5'],df4['NFHS 4'],df4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+            else:
+                sta4 = df4[df4['State']==states]
+                cento = geo[geo['ST_NM']== states]
+                cen = cento.centroid
+                lon = cen.apply(lambda p: p.x)
+                lat = cen.apply(lambda p: p.y)
+                fig4 = px.choropleth_mapbox(
+                    data_frame = sta4,
+                    geojson = cento,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':lon.iloc[0], 'lat':lat.iloc[0]},
+                    mapbox_style='carto-positron',
+                    zoom=5.25,
+                    color='NFHS 5',
+                    range_color=[650,1300],
+                    color_continuous_scale=px.colors.sequential.deep,
+                    title='State values',
+                    custom_data=[sta4['District Name'],sta4['State'],
+                                sta4['NFHS 5'],sta4['NFHS 4'],sta4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+        elif rado =='NFHS 4':
+            if states == 'All':
+                fig4 = px.choropleth_mapbox(
+                    data_frame = df4,
+                    geojson = geo,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':82.8496, 'lat':22.6944},
+                    mapbox_style='carto-positron',
+                    zoom=3.75,
+                    color='NFHS 4',
+                    range_color=[650,1300],
+                    color_continuous_scale=px.colors.sequential.deep,
+                    title='Percentage Change between NFHS 4 and NFHS 5 values',
+                    hover_name='District Name',
+                    custom_data=[df4['District Name'],df4['State'],
+                                df4['NFHS 5'],df4['NFHS 4'],df4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+            else:
+                sta4 = df4[df4['State']==states]
+                cento = geo[geo['ST_NM']== states]
+                cen = cento.centroid
+                lon = cen.apply(lambda p: p.x)
+                lat = cen.apply(lambda p: p.y)
+                fig4 = px.choropleth_mapbox(
+                    data_frame = sta4,
+                    geojson = cento,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':lon.iloc[0], 'lat':lat.iloc[0]},
+                    mapbox_style='carto-positron',
+                    zoom=5.25,
+                    color='NFHS 4',
+                    range_color=[650,1300],
+                    color_continuous_scale=px.colors.sequential.deep,
+                    title='State values',
+                    custom_data=[sta4['District Name'],sta4['State'],
+                                sta4['NFHS 5'],sta4['NFHS 4'],sta4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+        #else on rado
+        else :
+            if states == 'All':
+                fig4 = px.choropleth_mapbox(
+                    data_frame = df4,
+                    geojson = geo,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':82.8496, 'lat':22.6944},
+                    mapbox_style='carto-positron',
+                    zoom=3.75,
+                    color='Change',
+                    range_color=[-50,50],
+                    color_continuous_scale=px.colors.diverging.Armyrose,
+                    title='Percentage Change between NFHS 4 and NFHS 5 values',
+                    hover_name='District Name',
+                    color_continuous_midpoint=0,
+                    custom_data=[df4['District Name'],df4['State'],
+                                df4['NFHS 5'],df4['NFHS 4'],df4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+            else:
+                sta4 = df4[df4['State']==states]
+                cento = geo[geo['ST_NM']== states]
+                cen = cento.centroid
+                lon = cen.apply(lambda p: p.x)
+                lat = cen.apply(lambda p: p.y)
+                fig4 = px.choropleth_mapbox(
+                    data_frame = sta4,
+                    geojson = cento,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':lon.iloc[0], 'lat':lat.iloc[0]},
+                    mapbox_style='carto-positron',
+                    zoom=5.25,
+                    color='Change',
+                    color_continuous_scale=px.colors.diverging.RdBu,
+                    title='State values',
+                    color_continuous_midpoint=0,
+                    custom_data=[sta4['District Name'],sta4['State'],
+                                sta4['NFHS 5'],sta4['NFHS 4'],sta4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+    #else on mtric_chosen
     else:
-        sta4 = df4[df4['State']==states]
-        cento = geo[geo['ST_NM']== states]
-        cen = cento.centroid
-        lon = cen.apply(lambda p: p.x)
-        lat = cen.apply(lambda p: p.y)
-        fig4 = px.choropleth_mapbox(
-            data_frame = sta4,
-            geojson = cento,
-            featureidkey='properties.DISTRICT', # from geojson
-            locations = 'DISTRICT', # from df
-            center = {'lon':lon.iloc[0], 'lat':lat.iloc[0]},
-            mapbox_style='carto-positron',
-            zoom=5.25,
-            color='Change',
-            # range_color=[-50,50],
-            color_continuous_scale=px.colors.diverging.RdBu,
-            title='State values',
-            color_continuous_midpoint=0,
-            custom_data=[sta4['District Name'],sta4['State'],
-                         sta4['NFHS 5'],sta4['NFHS 4'],sta4['Change']]
-            )
-        # I created my own hover template for on hover event
-        hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
-        hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
-        hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
-        hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
-        hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
-        fig4.update_traces(hovertemplate=hovertemp)
-        fig4.update_layout(
-                        margin=dict(l=10, r=10, t=50, b=10),
-                        paper_bgcolor='rgba(0,0,0,0)',
-                        title_font_family='Helvetica',
-                        font_family='Helvetica',
-                        dragmode='pan',
-                      )
-        return container, fig4
+        if rado =='NFHS 5':
+            if states == 'All':
+                fig4 = px.choropleth_mapbox(
+                    data_frame = df4,
+                    geojson = geo,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':82.8496, 'lat':22.6944},
+                    mapbox_style='carto-positron',
+                    zoom=3.75,
+                    color='NFHS 5',
+                    range_color=[35,100],
+                    color_continuous_scale=px.colors.sequential.deep,
+                    title='Percentage Change between NFHS 4 and NFHS 5 values',
+                    hover_name='District Name',
+                    custom_data=[df4['District Name'],df4['State'],
+                                df4['NFHS 5'],df4['NFHS 4'],df4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+            else:
+                sta4 = df4[df4['State']==states]
+                cento = geo[geo['ST_NM']== states]
+                cen = cento.centroid
+                lon = cen.apply(lambda p: p.x)
+                lat = cen.apply(lambda p: p.y)
+                fig4 = px.choropleth_mapbox(
+                    data_frame = sta4,
+                    geojson = cento,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':lon.iloc[0], 'lat':lat.iloc[0]},
+                    mapbox_style='carto-positron',
+                    zoom=5.25,
+                    color='NFHS 5',
+                    range_color=[35,100],                    
+                    color_continuous_scale=px.colors.sequential.deep,
+                    title='State values',
+                    # color_continuous_midpoint=0,
+                    custom_data=[sta4['District Name'],sta4['State'],
+                                sta4['NFHS 5'],sta4['NFHS 4'],sta4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+        elif rado =='NFHS 4':
+            if states == 'All':
+                fig4 = px.choropleth_mapbox(
+                    data_frame = df4,
+                    geojson = geo,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':82.8496, 'lat':22.6944},
+                    mapbox_style='carto-positron',
+                    zoom=3.75,
+                    color='NFHS 4',
+                    range_color=[35,100],
+                    color_continuous_scale=px.colors.sequential.deep,
+                    title='Percentage Change between NFHS 4 and NFHS 5 values',
+                    hover_name='District Name',
+                    custom_data=[df4['District Name'],df4['State'],
+                                df4['NFHS 5'],df4['NFHS 4'],df4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+            else:
+                sta4 = df4[df4['State']==states]
+                cento = geo[geo['ST_NM']== states]
+                cen = cento.centroid
+                lon = cen.apply(lambda p: p.x)
+                lat = cen.apply(lambda p: p.y)
+                fig4 = px.choropleth_mapbox(
+                    data_frame = sta4,
+                    geojson = cento,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':lon.iloc[0], 'lat':lat.iloc[0]},
+                    mapbox_style='carto-positron',
+                    zoom=5.25,
+                    color='NFHS 4',
+                    range_color=[35,100],
+                    color_continuous_scale=px.colors.sequential.deep,
+                    title='State values',
+                    custom_data=[sta4['District Name'],sta4['State'],
+                                sta4['NFHS 5'],sta4['NFHS 4'],sta4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+        #else on rado 
+        else :
+            if states == 'All':
+                fig4 = px.choropleth_mapbox(
+                    data_frame = df4,
+                    geojson = geo,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':82.8496, 'lat':22.6944},
+                    mapbox_style='carto-positron',
+                    zoom=3.75,
+                    color='Change',
+                    range_color=[-50,50],
+                    color_continuous_scale=px.colors.diverging.RdBu,
+                    title='Percentage Change between NFHS 4 and NFHS 5 values',
+                    hover_name='District Name',
+                    color_continuous_midpoint=0,
+                    custom_data=[df4['District Name'],df4['State'],
+                                df4['NFHS 5'],df4['NFHS 4'],df4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
+            else:
+                sta4 = df4[df4['State']==states]
+                cento = geo[geo['ST_NM']== states]
+                cen = cento.centroid
+                lon = cen.apply(lambda p: p.x)
+                lat = cen.apply(lambda p: p.y)
+                fig4 = px.choropleth_mapbox(
+                    data_frame = sta4,
+                    geojson = cento,
+                    featureidkey='properties.DISTRICT', # from geojson
+                    locations = 'DISTRICT', # from df
+                    center = {'lon':lon.iloc[0], 'lat':lat.iloc[0]},
+                    mapbox_style='carto-positron',
+                    zoom=5.25,
+                    color='Change',
+                    color_continuous_scale=px.colors.diverging.RdBu,
+                    title='State values',
+                    color_continuous_midpoint=0,
+                    custom_data=[sta4['District Name'],sta4['State'],
+                                sta4['NFHS 5'],sta4['NFHS 4'],sta4['Change']]
+                    )
+                hovertemp = '<i style="color:red;">District :</i> %{customdata[0]}<br>'
+                hovertemp += '<i style="color:red;">State :</i> %{customdata[1]}<br>'
+                hovertemp += '<i>NFHS 5 :</i> %{customdata[2]:,f}<br>'
+                hovertemp += '<i>NFHS 4 :</i> %{customdata[3]:,f}<br>'
+                hovertemp += '<i>Change :</i> %{customdata[4]:,f}<br>'
+                fig4.update_traces(hovertemplate=hovertemp)
+                fig4.update_layout(
+                                margin=dict(l=10, r=10, t=50, b=10),
+                                paper_bgcolor='rgba(0,0,0,0)',
+                                title_font_family='Helvetica',
+                                font_family='Helvetica',
+                                dragmode='pan',
+                            )
+                return container, fig4
 
 @app.callback(
     [Output('top5_table', 'children'),
