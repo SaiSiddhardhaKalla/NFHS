@@ -16,7 +16,8 @@ body {
       /* background: bl; */
       grid-template-areas: 
       "header header header header header header header header header header"
-      "Cat Cat Cat indi indi indi indi States States States"       
+      "Cat Cat Cat indi indi indi indi States States States"
+      ". . . . rad rad . . . . "  
       " . n5 n5 n5 n5 n5 n5 n5 n5 ."
       ". out out out out out out out out ."
       ". top5 top5 top5 top5 chan chan chan chan ."
