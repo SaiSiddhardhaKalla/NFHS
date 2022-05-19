@@ -11,13 +11,13 @@ body {
       display: grid;
       height: 100vh;
       grid-template-columns: 0.25fr 0.25fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.25fr 0.25fr;
-      grid-template-rows: 70px 0.5fr 6fr 0.65fr 2fr 2fr;
+      grid-template-rows: 70px 0.5fr 0.75fr 6fr 0.65fr 2fr 2fr;
       gap: 0.5rem;
       /* background: bl; */
       grid-template-areas: 
       "header header header header header header header header header header"
-      "Cat Cat Cat indi indi indi indi States States States"
-      ". . . . rad rad . . . . "  
+      "Cat Cat Cat indi indi indi indi States States States"  
+      ". . . . rad rad . . . . "     
       " . n5 n5 n5 n5 n5 n5 n5 n5 ."
       ". out out out out out out out out ."
       ". top5 top5 top5 top5 chan chan chan chan ."
@@ -51,7 +51,6 @@ body {
           transition: border-radius .2s;
           }     
 .indi{
-          grid-area: indi;
           grid-area: indi;
           /* width: 100%; */
           border: none;
@@ -115,6 +114,8 @@ body {
           left: 0;
           right: 0;
           height: 1222px;
+          /* width: 100%; */
+          background-size: 100%;
           z-index: -1; /* for header*/
           background-repeat: no-repeat;
           background-position: 0 0;
@@ -154,3 +155,26 @@ body {
 .negchan{
           grid-area: negchan;
          }
+.radio_items{
+           grid-area: rad;
+           border: none;
+           background: #052F5F;
+           outline: none;
+           border-radius: 22px;
+           padding: 9px 22px 9px;
+           font-family: Helvetica Neue,Arial,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,sans-serif;
+           font-weight: 400;
+           font-size: 1.125rem;
+           box-shadow: 0 0 12px 8px rgb(0 0 0 / 5%);
+           position: relative;
+           display: flex;
+           color: white !important;
+           flex-direction: column;
+           align-items: left;
+           -webkit-transition: border-radius .2s;
+           transition: border-radius .2s;
+          }
+#radio label {
+            color: white;
+            flex: 1;
+          }
